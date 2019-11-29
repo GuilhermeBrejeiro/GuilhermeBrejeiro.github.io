@@ -1,6 +1,6 @@
 <!-- Home page design with small circular image bisecting card. -->
 
-
+{% assign essay_pages = site.pages | where: "type", "essay"  | where_exp: "page", "page.draft != true" %}
 {% assign project_pages = site.pages | where: "type", "project" | where_exp: "page", "page.draft != true" %}
 {% assign num_essays = essay_pages.size %}
 {% assign num_projects = project_pages.size %}
@@ -48,7 +48,7 @@
           <button class="uhbtn ui basic button">{{ site.bio-page-label }}</button>
         </a>
         <a href="{{ site.baseurl}}/teste/">
-          <button class="uhbtn ui basic button">{{ num_teste }}</button>
+          <button class="uhbtn ui basic button">Teste{{ num_teste }}</button>
         </a>
       </div>
     </div>
