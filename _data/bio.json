@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "git",
+        "network": "github",
         "username": "GuilhermeBrejeiro",
-        "url": "http://github.com/guilhermebrejeiro"
+        "url": "guilhermebrejeiro"
       },
       {
         "network": "linkedin",
