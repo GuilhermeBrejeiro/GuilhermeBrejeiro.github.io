@@ -1,9 +1,7 @@
 <!-- Used by all builtin themes. Now we list number of essays and projects. -->
 
-{% assign teste_pages = site.pages | where: "type", "teste"  | where_exp: "page", "page.draft != true" %}
 {% assign essay_pages = site.pages | where: "type", "essay"  | where_exp: "page", "page.draft != true" %}
 {% assign project_pages = site.pages | where: "type", "project" | where_exp: "page", "page.draft != true" %}
-{% assign num_testes = teste_pages.size %}
 {% assign num_essays = essay_pages.size %}
 {% assign num_projects = project_pages.size %}
 
@@ -11,10 +9,7 @@
   <nav class="ui stackable menu">
     <a href="{{ site.baseurl}}/" class="brand item">
       <img class="ui avatar image" src="{{ site.data.bio.basics.picture }}"><span>{{ site.data.bio.basics.name }}</span>
-    </a>
-    {% if num_testes > 0 %}
-    <a href="{{ site.baseurl }}/testes" class=" {% if include.active == "testes" %} active {% endif %}item">Testes ({{ num_testes }})</a>
-    {% endif %}    
+    </a>    
     {% if num_projects > 0 %}
     <a href="{{ site.baseurl }}/projects" class=" {% if include.active == "projects" %} active {% endif %}item">Projects ({{ num_projects }})</a>
     {% endif %}
