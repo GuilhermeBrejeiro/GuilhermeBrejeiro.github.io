@@ -16,7 +16,7 @@
     },
     "profiles": [
       {
-        "network": "github",
+        "network": "git",
         "username": "GuilhermeBrejeiro",
         "url": "http://github.com/guilhermebrejeiro"
       },
