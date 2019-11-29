@@ -1,57 +1,45 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Guilherme Brejeiro",
+    "label": "Data Science and Artificial Intelligence Enthusiast",
+    "picture": "https://guilhermebrejeiro.github.io/images/avatar.jpg",
+    "email": "juanbre@gmail.com",
+    "phone": "",
+    "website": "https://guilhermebrejeiro.github.io",
+    "summary": "Engineer, LSS Black Belt, Postgraduate in Data Science and Big Data and NanoDegree student of Machine Learning Engineer (AWS DeepRacer / Udacity Top 30 Awards)",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "09080-370",
+      "city": "Santo André",
+      "countryCode": "Brasil",
+      "region": "SP"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "GuilhermeBrejeiro",
+        "url": "http://github.com/guilhermebrejeiro"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "guilhermebrejeiro",
+        "url": "http://linkedin.com/in/guilhermebrejeiro"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Data Science",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Big Data",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
@@ -61,37 +49,79 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "SQL",
+        "TensorFlow",
+        "Keras"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Libraries",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "NumPy",
+        "SciPy",
+        "Pandas",
+        "Matplotlib",
+        "Statsmodel",
+        "Seaborn",
+        "SciKit-Learn",
+        "MLlib"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Udacity",
+      "area": "Machine Learning Engineer",
+      "studyType": "NanoDegree",
+      "startDate": "2019-11-19",
       "endDate": "Present",
       "gpa": "",
       "courses": [
       ]
+    },
+        {
+      "institution": "PUC Minas",
+      "area": "Big Data & Data Science Specialization",
+      "studyType": "Postgraduate",
+      "startDate": "2019-09-19",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "DeepLearning.ia",
+      "area": "Deep Learning",
+      "studyType": "Specialization",
+      "startDate": "2019-09-19",
+      "endDate": "2019-11-28",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Stanford/Coursera",
+      "area": "Machine Learning",
+      "studyType": "Specialization",
+      "startDate": "2019-08-19",
+      "endDate": "2019-10-28",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+        {
+      "institution": "University Center of FEI",
+      "area": "Mechanical Engineer",
+      "studyType": "BSc",
+      "startDate": "2009-02-19",
+      "endDate": "2017-12-28",
+      "gpa": "",
+      "courses": [
+      ]
     }
+    
   ],
   "work": [
     {
