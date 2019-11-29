@@ -24,6 +24,11 @@
         "network": "linkedin",
         "username": "guilhermebrejeiro",
         "url": "http://linkedin.com/in/guilhermebrejeiro"
+      },
+      {
+        "network": "datacamp",
+        "username": "gbrejeiro",
+        "url": "https://www.datacamp.com/profile/gbrejeiro"
       }
     ]
   },
