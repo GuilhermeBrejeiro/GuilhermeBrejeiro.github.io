@@ -125,27 +125,63 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Cummins",
+      "position": "Logistic Analyst",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2018-07-01",
+      "endDate": "2019-04-25",
+      "summary": "Responsible for developing dashboards for collection and control of logistics processes.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Identifying patterns and generating demand forecasts",
+        "Elaboration and management of logistics operation KPIs."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Novelis",
+      "position": "Process and quality engineering - Intern",
+      "website": "",
+      "startDate": "2016-01-01",
+      "endDate": "2017-12-15",
+      "summary": "Improvement of production processes through data collection and analysis",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Identify the source of the problem and possible improvement opportunities",
+        "Implementing preventive and corrective actions through statistical tools"
+      ]
+    },
+    {
+      "company": "Scania",
+      "position": "Logistics development engineering - Intern",
+      "website": "",
+      "startDate": "2015-09-14",
+      "endDate": "2016-09-14",
+      "summary": "Development and control of logistics processes",
+      "highlights": [
+        "Development of indicators and controls tool in Excel",
+        "Definition of methods and standards"
+      ]
+    },
+    {
+      "company": "T-Systems",
+      "position": "Development engineering support - Intern",
+      "website": "",
+      "startDate": "2014-04-14",
+      "endDate": "2014-10-14",
+      "summary": "Mercedes Benz engineers support, CAD / CAM software",
+      "highlights": [
+        "",
+        ""
+      ]
+    },
+    {
+      "company": "Itau-Unibanco",
+      "position": "Technical support on business segment ",
+      "website": "",
+      "startDate": "2009-09-14",
+      "endDate": "2012-08-28",
+      "summary": "Support for banking corporate products",
+      "highlights": [
+        "Validation of files in test environment and production",
+        "Analysis of systemic problems related to products in electronic channels"
       ]
     }
   ],
