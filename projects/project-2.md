@@ -11,7 +11,7 @@ labels:
   - Python
   - Matplotlib
   - Seaborn
-summary: we're going to find out how some of the elements of this show interact with each other.
+summary: We're going to find out how some of the elements of this show interact with each other.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/superbowl.jpeg">
