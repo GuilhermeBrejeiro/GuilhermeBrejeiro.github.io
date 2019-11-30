@@ -184,5 +184,16 @@
         "Analysis of systemic problems related to products in electronic channels"
       ]
     }
+  ],
+  "courses": [
+    {
+      "institution": "DataCamp",
+      "area": "Machine Learning Scientist with Python Track",
+    },
+    {
+      "institution": "DataCamp",
+      "area": "Data Scientist with Python Track"
+    } 
   ]
 }
+
