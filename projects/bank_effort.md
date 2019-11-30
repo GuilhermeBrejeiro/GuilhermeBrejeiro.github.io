@@ -5,7 +5,7 @@ image: images/Bank_dollar.jpg
 title: Which Debts Are Worth the Bank's Effort
 permalink: projects/bank_debits_effort
 # All dates must be YYYY-MM-DD format!
-date: 2019-11-25
+date: 2019-10-25
 labels:
   - Python
   - Regression discontinuity
