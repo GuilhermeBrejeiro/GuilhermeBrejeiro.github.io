@@ -11,15 +11,10 @@ labels:
   - Python
   - Deep Learning
   - Neural Networks
-summary: Learn the foundations of deep learning.
+summary: Learn the foundations of deep learning, build, train and apply fully connected deep neural networks
 ---
 
 <img class="ui medium right floated rounded image" src="../images/neural_networks.jpg">
-
-- Understand the major technology trends driving Deep Learning
-- Be able to build, train and apply fully connected deep neural networks 
-- Know how to implement efficient (vectorized) neural networks 
-- Understand the key parameters in a neural network's architecture
 
 Projects:
 -Building your Deep Neural Network Step by Step
