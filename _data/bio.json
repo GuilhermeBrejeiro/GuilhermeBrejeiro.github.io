@@ -92,6 +92,26 @@
       ]
     },
     {
+      "institution": "DataCamp",
+      "area": "Machine Learning Scientist with Python",
+      "studyType": "Track",
+      "startDate": "2019",
+      "endDate": "2019",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "DataCamp",
+      "area": "Data Scientist with Python",
+      "studyType": "Track",
+      "startDate": "2019",
+      "endDate": "2019",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
       "institution": "DeepLearning.ia",
       "area": "Deep Learning",
       "studyType": "Specialization",
@@ -184,16 +204,4 @@
         "Analysis of systemic problems related to products in electronic channels"
       ]
     }
-  ],
-  "courses": [
-    {
-      "institution": "DataCamp",
-      "area": "Track, Machine Learning Scientist with Python "
-    },
-    {
-      "institution": "DataCamp",
-      "area": "Track, Data Scientist with Python"
-    } 
   ]
-}
-
