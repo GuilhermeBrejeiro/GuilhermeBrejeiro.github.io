@@ -17,12 +17,12 @@ summary: Learn the foundations of deep learning, build, train and apply fully co
 <img class="ui medium right floated rounded image" src="../images/neural_networks.jpg">
 
 <ul>
-<li>-Building your Deep Neural Network Step by Step<\li>
+<li>-Building your Deep Neural Network Step by Step
  
-<li>-Deep Neural Network Application<\li>
+<li>-Deep Neural Network Application
  
-<li>-Logistic Regression with a Neural Network mindset<\li>
+<li>-Logistic Regression with a Neural Network mindset
  
-<li>-Planar data classification with one hidden layer<\li>
-<\ul>
+<li>-Planar data classification with one hidden layer
+
 Source: <a href="https://github.com/GuilhermeBrejeiro/Deep-Learning-Specialization/tree/master/Neural%20Networks%20and%20Deep%20Learning"><i class="large github icon"></i>Neural Networks</a>
