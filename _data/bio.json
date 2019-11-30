@@ -188,11 +188,11 @@
   "courses": [
     {
       "institution": "DataCamp",
-      "area": "Machine Learning Scientist with Python Track",
+      "area": "Track: Machine Learning Scientist with Python "
     },
     {
       "institution": "DataCamp",
-      "area": "Data Scientist with Python Track"
+      "area": "Track: Data Scientist with Python"
     } 
   ]
 }
