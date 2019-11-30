@@ -1,26 +1,30 @@
 ---
 layout: project
 type: project
-image: images/superbowl.jpeg
-title: TV, halftime shows, and the Big Game
-permalink: projects/superbowl
+image: images/neural_networks.jpg
+title: Coursera Neural Networks
+permalink: projects/neural_networks
 # All dates must be YYYY-MM-DD format!
-date: 2019-11-01
+date: 2019-10-01
 labels:
-  - DataCamp
+  - Coursera
   - Python
-  - Matplotlib
-  - Seaborn
-summary: We're going to find out how some of the elements of this show interact with each other.
+  - Deep Learning
+  - Neural Networks
+summary: Learn the foundations of deep learning.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/superbowl.jpeg">
+<img class="ui medium right floated rounded image" src="../images/neural_networks.jpg">
 
-Whether or not you like football, the Super Bowl is a spectacle. There's a little something for everyone at your Super Bowl party. Drama in the form of blowouts, comebacks, and controversy for the sports fan. There are the ridiculously expensive ads, some hilarious, others gut-wrenching, thought-provoking, and weird. The half-time shows with the biggest musicians in the world, sometimes riding giant mechanical tigers or leaping from the roof of the stadium. It's a show, baby. And in this notebook, we're going to find out how some of the elements of this show interact with each other. After exploring and cleaning our data a little, we're going to answer questions like:
+- Understand the major technology trends driving Deep Learning
+- Be able to build, train and apply fully connected deep neural networks 
+- Know how to implement efficient (vectorized) neural networks 
+- Understand the key parameters in a neural network's architecture
 
-What are the most extreme game outcomes?
-  -How does the game affect television viewership?
-  -How have viewership, TV ratings, and ad cost evolved over time?
-  -Who are the most prolific musicians in terms of halftime show performances?
- 
-Source: <a href="https://github.com/GuilhermeBrejeiro/SuperBowl"><i class="large github icon"></i>SuperBowl</a>
+Projects:
+-Building your Deep Neural Network Step by Step
+-Deep Neural Network Application
+-Logistic Regression with a Neural Network mindset
+-Planar data classification with one hidden layer
+
+Source: <a href="https://github.com/GuilhermeBrejeiro/Deep-Learning-Specialization/tree/master/Neural%20Networks%20and%20Deep%20Learning"><i class="large github icon"></i>Neural Networks</a>
