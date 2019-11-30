@@ -1,25 +1,26 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/superbowl.jpeg
+title: TV, halftime shows, and the Big Game
+permalink: projects/superbowl
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-11-01
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - DataCamp
+  - Python
+  - Matplotlib
+  - Seaborn
+summary: we're going to find out how some of the elements of this show interact with each other.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/superbowl.jpeg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Whether or not you like football, the Super Bowl is a spectacle. There's a little something for everyone at your Super Bowl party. Drama in the form of blowouts, comebacks, and controversy for the sports fan. There are the ridiculously expensive ads, some hilarious, others gut-wrenching, thought-provoking, and weird. The half-time shows with the biggest musicians in the world, sometimes riding giant mechanical tigers or leaping from the roof of the stadium. It's a show, baby. And in this notebook, we're going to find out how some of the elements of this show interact with each other. After exploring and cleaning our data a little, we're going to answer questions like:
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+What are the most extreme game outcomes?
+  -How does the game affect television viewership?
+  -How have viewership, TV ratings, and ad cost evolved over time?
+  -Who are the most prolific musicians in terms of halftime show performances?
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/GuilhermeBrejeiro/SuperBowl"><i class="large github icon"></i>SuperBowl</a>
