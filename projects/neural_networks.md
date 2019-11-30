@@ -16,7 +16,6 @@ summary: Learn the foundations of deep learning, build, train and apply fully co
 
 <img class="ui medium right floated rounded image" src="../images/neural_networks.jpg">
 
-Projects:
 -Building your Deep Neural Network Step by Step
 -Deep Neural Network Application
 -Logistic Regression with a Neural Network mindset
