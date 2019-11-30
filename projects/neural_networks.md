@@ -24,6 +24,6 @@ summary: Learn the foundations of deep learning, build, train and apply fully co
 <li>Logistic Regression with a Neural Network mindset
  
 <li>Planar data classification with one hidden layer
-</ul>
+
 
 Source: <a href="https://github.com/GuilhermeBrejeiro/Deep-Learning-Specialization/tree/master/Neural%20Networks%20and%20Deep%20Learning"><i class="large github icon"></i>Neural Networks</a>
