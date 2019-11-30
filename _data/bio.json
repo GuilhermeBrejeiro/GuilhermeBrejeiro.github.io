@@ -143,6 +143,14 @@
     }
     
   ],
+  "awards": [
+    {
+      "type": "Scholarship Machine Learning Engineer NanoDegree",
+      "title": "AWS DeepRacer/Udacity competition, Top 30",
+      "date": "November, 2019",
+      "awarder": "",
+      "summary": ""
+    },
   "work": [
     {
       "company": "Cummins",
