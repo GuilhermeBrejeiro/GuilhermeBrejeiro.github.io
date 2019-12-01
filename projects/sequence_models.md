@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/sequence.jpg
+image: images/sequence.png
 title: "Coursera: Sequence Models"
 permalink: projects/sequence_models
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,7 @@ labels:
 summary: How to build models for natural language, audio, and other sequence data
 ---
 
-<img class="ui medium right floated rounded image" src="../images/sequence.jpg">
+<img class="ui medium right floated rounded image" src="../images/sequence.png">
 
 Projects:
 
