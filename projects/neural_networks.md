@@ -14,9 +14,9 @@ labels:
 summary: Learn the foundations of deep learning, build, train and apply fully connected deep neural networks
 ---
 
-<p>Projects:
 <img class="ui medium right floated rounded image" src="../images/neural_networks.jpg">
-<ul>
+
+Projects:
   * Building your Deep Neural Network Step by Step
  
   * Deep Neural Network Application
