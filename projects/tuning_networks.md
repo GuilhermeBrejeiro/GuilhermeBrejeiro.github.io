@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/tuning_networks.jpg
 title: "Coursera: Improving Deep Neural Networks"
-permalink: projects/neural_networks
+permalink: projects/tuning_networks
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-07
 labels:
