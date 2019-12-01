@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/convolutional.jpg
-title: "Coursera: Improving Deep Neural Networks"
+title: "Coursera: Convolutional Neural Networks"
 permalink: projects/convolutional_networks
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-19
