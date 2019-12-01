@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/neural_networks.jpg
-title: Coursera Neural Networks
+title: Coursera: Neural Networks
 permalink: projects/neural_networks
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-01
