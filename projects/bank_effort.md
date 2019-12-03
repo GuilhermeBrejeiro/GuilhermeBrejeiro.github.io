@@ -10,6 +10,7 @@ labels:
   - Python
   - Regression discontinuity
   - scipy
+  - DataCamp
 summary: Probability of the customer paying, the total debt, and other factors that impact the ability and willingness to pay.
 ---
 
