@@ -19,6 +19,6 @@ pouco sobre Machine Learning e, em uma determinada aula do meu MBA, o professor 
 contando a historia de 200 países por 200 anos em 4 minutos. Entrei em contato com ele e questionei sobre os caminhos para atuar nessa área, estava nascendo a minha decisão de ser cientista de dados, finalmente havia me encontrada na profissão.</p>
 
 <p>Decidido o caminho que viria a tomar, estava na hora de estudar de maneira intensa e separei 6 meses para me dedicar a isso.</p>
-Sabia que teria de estudar muito, com a vantagem de não precisar me forcar tanto em cálculo, algebra, estátistica e probabilidade, devido as minhas formações, portanto apenas revisei o conteúdo e parti para cursos mais focados. Essa é a relação dos cursos que eu fiz e ainda estou fazendo:
+<p>Sabia que teria de estudar muito, com a vantagem de não precisar me forcar tanto em cálculo, algebra, estátistica e probabilidade, devido as minhas formações, portanto apenas revisei o conteúdo e parti para cursos mais focados. Essa é a relação dos cursos que eu fiz e ainda estou fazendo:
   * Python
   * Teste
