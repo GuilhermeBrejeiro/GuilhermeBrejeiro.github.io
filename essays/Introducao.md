@@ -10,8 +10,8 @@ labels:
   - Aprender ensinando
 ---
 
-<img class="ui large right floated rounded image" src="../images/ML_logo.jpg">
-<p>Uma das liçÕes mais valiosas que aprendi nos últimos tempos é que ensinar e se preparar para ensinar são formas 
+<img class="ui fluid image" src="../images/ML_logo.jpg">
+<p>Uma das lições mais valiosas que aprendi nos últimos tempos é que ensinar e se preparar para ensinar são formas 
 formidáveis de absorver o conhecimento. Vou começar uma série de posts explicando um pouco sobre como funciona os principais algoritmos que 
 venho aprendendo, em todos os cursos, especializações e nanodegrees que vou passando.</p>
 
