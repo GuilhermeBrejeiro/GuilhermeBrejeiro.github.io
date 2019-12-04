@@ -23,7 +23,7 @@ fontes de conhecimento. Vim de uma formação em engenharia e uma especializaç�
 contato com cálculos e algebra e na especialização eu me aprofundei bastante em análise de dados por meio da estátistica e da probabilidade, 
 o que me levou direto ao aprendizado de Machine Learning sem precisar obter esse base matemática.</p>
 
-<p>Por todas as minhas pesquisas e cursos, conclui que os principais algoritmos de Machine Learning são:
+Por todas as minhas pesquisas e cursos, conclui que os principais algoritmos de Machine Learning são:
 * Regressão
 * Classificação
 * Decision Trees
