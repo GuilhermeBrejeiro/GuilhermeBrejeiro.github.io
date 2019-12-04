@@ -24,14 +24,14 @@ contato com cálculos e algebra e na especialização eu me aprofundei bastante 
 o que me levou direto ao aprendizado de Machine Learning sem precisar obter esse base matemática.</p>
 
 <p>Por todas as minhas pesquisas e cursos, conclui que os principais algoritmos de Machine Learning são:
--Regressão
--Classificação
--Decision Trees
--Random Forest
--Naive Bayes
--K Nearest Neighbours (KNN)
--K Means
--Support Vector Machines
--
+* Regressão
+* Classificação
+* Decision Trees
+* Random Forest
+* Naive Bayes
+* K Nearest Neighbours (KNN)
+* K Means
+* Support Vector Machines
+
 
 
