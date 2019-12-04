@@ -21,8 +21,8 @@ Whether or not you like football, the Super Bowl is a spectacle. There's a littl
 What are the most extreme game outcomes?
 
 <li>How does the game affect television viewership?
-*How have viewership, TV ratings, and ad cost evolved over time?
-*Who are the most prolific musicians in terms of halftime show performances?
+<li>How have viewership, TV ratings, and ad cost evolved over time?
+<li>Who are the most prolific musicians in terms of halftime show performances?
  
  
 <p>Source: <a href="https://github.com/GuilhermeBrejeiro/SuperBowl"><i class="large github icon"></i>SuperBowl</a>
