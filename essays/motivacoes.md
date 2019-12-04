@@ -27,13 +27,21 @@ contando a historia de 200 países por 200 anos em 4 minutos. Entrei em contato 
 <p>Decidido o caminho que viria a tomar, estava na hora de estudar de maneira intensa e separei 6 meses para me dedicar a isso.</p>
 <p>Sabia que teria de estudar muito, mas com a vantagem de não precisar me focar tanto em cálculo, algebra, estátistica e probabilidade, devido as minhas formações. Portanto, apenas revisei o conteúdo e parti para cursos mais específicos. Essa é a relação dos cursos que eu fiz e ainda estou fazendo:</p>
 
+## Python
   * Python: Mundo 1, Mundo 2 e Mundo 3 - Gustavo Guanabara - Concluído
   * Python: Fundamento para Análise de Dados - DSA - Concluído
+  
+## Big Data  
   * Big Data: Fundamentos 2.0 - DSA - Concluído
+  * MBA em Big Data & Data Science - PUC - Cursando
+  
+## Udemy
   * Machine Learning A-Z - Kiril Eremenko/Udemy - Concluído
+  
+## Coursera
   * Machine Learning - Stanford/Coursera - Concluído
   * Deep Learning Specialization - deeplearning.ai - Concluído
-  * MBA em Big Data & Data Science - PUC - Cursando
+  
   
 ## Conheci a AWS DeepRAcer, competi e conquistei um NanoDegree patrocinado pela Amazon
 
