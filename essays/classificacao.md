@@ -19,12 +19,30 @@ labels:
 
 <img class="ui fluid image" src="../images/email_spam.jpg">
 
-<p> Outro exemplo poderia ser no ambiente médico, pela quantidade de genes que uma pessoa venha a ter, baseado em diversos casos anteriores, seria possível prever se há a necessidade de uma maior atenção e um maior número de exames. Com isso, muitos problemas médicos poderiam ser tratados logo de inicio, aumentando as chances de sucesso.</p>
-  
-<img class="ui fluid image" src="../images/modelo1.png">
 
 
 ## Processo de Regressão
 
-<p> Nesse processo
+<p> Diferente do processo anterior que da uma resposta categórica se é ou não é, nesse processo o objetivo é prever o comportamento futuro baseado nos critérios conhecidos. Um bom exemplo seria a venda de guarda chuvas, através da quantidade de chuva é possível prever a demanda que vai acontecer, com isso organizar o nível de estoque e pedidos, não tentamos responder de forma categórica se vai ou não ser vendido guarda chuvas mas sim a quantidade.
+  
+<img class="ui fluid image" src="../images/guardachuva_nivel.png">
+
+## Correlação não implica é causalidade
+
+<p> Uma frase clássica da estátistica é que "Correlação não implica é causalidade", isso significa que não basta apenas elaborar um gráfico com duas ou mais variáveis e sair prevendo dados. Aqui, a importância do conhecimento do negócio se mostra primordial.</p>
+<p>Um exemplo disso é uma públicação cientifica, feita por um médico chamado Franz Messerli, no qual ele relaciona o consumo de chocolate com a quantidade de prêmios Nobel recebidos por país. </p>
+<p>Olhando o gráfico realmente é impressionante, vamos encher todo mundo de chocolates e levar a humanidade para um novo patamar!</p>
+
+<p>O que não foi analisado e passou batido foram outras variáveis. O fato de que quanto maior a renda, maior o nível de estudo e maior o poder aquisitivo para compra de chocolate; ou o tamanho do país, EUA possui uma produção cientifica altíssima mas tambem possui uma população muito superior a Noruega, por exemplo. Ai está um exemplo de como é importante conhecer o negócio.</p>
+
+<img class="ui fluid image" src="../images/grafico_choco.jpg">
+
+
+<p> Outro exemplo, bastante gritante e muito utilizado é a relação existente entre a quantidade de filmes do Nicolas Cage e a quantidade de suícidios por afogamento</p>
+
+<img class="ui fluid image" src="../images/nicolascage.png">
+
+
+  	
+
 
