@@ -12,8 +12,7 @@ labels:
 
 <img class="ui fluid image" src="../images/ML_logo.jpg">
 <p>Uma das lições mais valiosas que aprendi nos últimos tempos é que ensinar e se preparar para ensinar são formas 
-formidáveis de absorver o conhecimento. Vou começar uma série de posts explicando um pouco sobre como funciona os principais algoritmos que 
-venho aprendendo, em todos os cursos, especializações e nanodegrees que vou passando.</p>
+formidáveis de absorver o conhecimento. Vou começar uma série de posts explicando um pouco sobre como funciona os principais algoritmos que venho aprendendo, em todos os cursos, especializações e nanodegrees, até agora.</p>
 
 <p>Por falar em cursos, especializacões e nanodegrees, eu bebi de muitas fontes diferentes e cada uma lapidou um pouco 
 os meus conhecimentos em Machine Learning.</p>
