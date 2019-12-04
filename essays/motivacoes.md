@@ -30,11 +30,11 @@ Estudei por um ano MBA em gestão de negócios e ao mesmo tempo cursava um Micro
   * [Python: Fundamento para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) - DSA - Concluído
   
 ## Big Data  
-  * [Big Data: Fundamentos 2.0](https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos) - DSA - Concluído
-  * MBA em Big Data & Data Science - PUC - Cursando
+  * [Big Data: Fundamentos 2.0 - DSA](https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos) - Concluído
+  * [MBA em Big Data & Data Science - PUC](https://www.pucminas.br/PucVirtual/Pos-Graduacao/Paginas/Ci%C3%AAncia-de-Dados-e-Big-Data.aspx?moda=1&polo=1&area=11&curso=2944&situ=1) - Cursando
   
 ## Udemy
-  * [Machine Learning A-Z](https://www.udemy.com/course/machinelearning/) - Kiril Eremenko/Udemy - Concluído
+  * [Machine Learning A-Z - Kiril Eremenko/Udemy](https://www.udemy.com/course/machinelearning/) - Concluído
   
 ## Coursera
   * [Machine Learning - Stanford/Coursera](https://www.coursera.org/learn/machine-learning) - Concluído
@@ -44,7 +44,7 @@ Estudei por um ano MBA em gestão de negócios e ao mesmo tempo cursava um Micro
 ## AWS DeepRAcer, competi e conquistei um NanoDegree patrocinado pela Amazon
 <img class="ui small right floated rounded image" src="../images/sch_winner.jpg">
 
-  * [NanoDegree em Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) - Udacity - Cursando com bolsa de 100%, premiação por ser TOP 50 Mundial da AWS DeepRacer/Udacity
+  * [NanoDegree em Machine Learning Engineer - Udacity](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) - Cursando com bolsa de 100%, premiação por ser TOP 50 Mundial da AWS DeepRacer/Udacity
   
 <br>
 <br>
