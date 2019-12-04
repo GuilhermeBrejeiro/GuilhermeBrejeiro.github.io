@@ -36,7 +36,6 @@ fontes de conhecimento. Vim de uma formação em engenharia e uma especializaç�
 
 ## Principais algoritmos de ML
 
-Por todas as minhas pesquisas e cursos, esse algoritmos sempre aparecem e valem a pena estudar um pouco mais a fundo:
 
 * Regressão
 * Classificação
