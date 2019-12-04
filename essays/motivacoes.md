@@ -12,18 +12,18 @@ labels:
 
 <img class="ui fluid image" src="../images/graphics.jpg">
 
-<p>Eu vim de áreas análiticas, lidando com gráficos, obtenção de dados e melhoria de processos na área de qualidade e na área de logistica.</p> 
+<p>Eu vim de áreas analíticas, lidando com gráficos, obtenção de dados e melhoria de processos na área de qualidade e na área de logística.</p> 
 <p>Formado em engenharia, me especializei como Black Belt em Lean Six Sigma e inconscientemente eu já caminhava para o mundo dos dados.</p>
 
 ## Descobrindo a ciência dos Dados
 
-Estudei por um ano MBA em gestão de negócios e ao mesmo tempo cursava um Micro Master em Supply Chain na EDX, no qual tive um módulo  sobre Machine Learning e, em uma determinada aula do meu MBA, me foi apresentado um [video](https://youtu.be/jbkSRLYSojo) do Hans Rosling contando a historia de 200 países por 200 anos em 4 minutos. Entrei em contato com ele e questionei sobre os caminhos para atuar nessa área, estava nascendo a minha decisão de ser cientista de dados, finalmente havia me encontrado na profissão.
+Estudei por um ano MBA em gestão de negócios e ao mesmo tempo cursava um Micro Master em Supply Chain na EDX, no qual tive um módulo  sobre Machine Learning e, em uma determinada aula do meu MBA, me foi apresentado um [vídeo](https://youtu.be/jbkSRLYSojo) do Hans Rosling contando a historia de 200 países por 200 anos em 4 minutos. Entrei em contato com ele e questionei sobre os caminhos para atuar nessa área, estava nascendo a minha decisão de ser cientista de dados, finalmente havia me encontrado na profissão.
 
 
 ## Encarando o desafio de me especializar por MOOCs
 
 <p>Decidido o caminho que viria a tomar, estava na hora de estudar de maneira intensa e separei 6 meses para me dedicar a isso.</p>
-<p>Sabia que teria de estudar muito, mas com a vantagem de não precisar me focar tanto em cálculo, algebra, estátistica e probabilidade, devido as minhas formações. Portanto, apenas revisei o conteúdo e parti para cursos mais específicos. Essa é a relação dos cursos que eu fiz e ainda estou fazendo:</p>
+<p>Sabia que teria de estudar muito, mas com a vantagem de não precisar me focar tanto em cálculo, álgebra, estatística e probabilidade, devido as minhas formações. Portanto, apenas revisei o conteúdo e parti para cursos mais específicos. Essa é a relação dos cursos que eu fiz e ainda estou fazendo:</p>
 
 ## Python
   * Python: Mundo 1, Mundo 2 e Mundo 3 - Gustavo Guanabara - Concluído
@@ -52,7 +52,7 @@ Estudei por um ano MBA em gestão de negócios e ao mesmo tempo cursava um Micro
 
 
 ## DataCamp   
-<p>Apesar de alguns projetos práticos, eu senti a necessidade de codar mais e então conheci a DataCamp, foi uma excelênte maneira de variar entre teoria e prática, realizando duas Tracks com quase 50 módulos e 150 horas, a plataforma vai te dando pontos a cada etapa concluída e isso estimula bastante, é quase como um jogo.</p>
+<p>Apesar de alguns projetos práticos, eu senti a necessidade de codar mais e então conheci a DataCamp, foi uma excelente maneira de variar entre teoria e prática, realizando duas Tracks com quase 50 módulos e 150 horas, a plataforma vai te dando pontos a cada etapa concluída e isso estimula bastante, é quase como um jogo.</p>
 
 <img class="ui fluid image" src="../images/DataCamp_041219.jpg">
 
@@ -60,4 +60,4 @@ Estudei por um ano MBA em gestão de negócios e ao mesmo tempo cursava um Micro
   * Career Track - Data Analyst with Python - Concluído
 
 ## Hello World!
-<p>É incrível o que se pode atingir com bastante dedicação e foco, desenvolvi diversos projetos em cada um dos cursos e ainda desenvolvo projetos na DataCamp e Kaggle. Fico cada dia mais maravilhado com o potêncial que a ciência dos dados tem pela frente e me perco nos pensamentos ao imaginar como estaremos dentro de alguns anos! </p>
+<p>É incrível o que se pode atingir com bastante dedicação e foco, desenvolvi diversos projetos em cada um dos cursos e ainda desenvolvo projetos na DataCamp e Kaggle. Fico cada dia mais maravilhado com o potencial que a ciência dos dados tem pela frente e me perco nos pensamentos ao imaginar como estaremos dentro de alguns anos! </p>
