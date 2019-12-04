@@ -50,8 +50,7 @@ contando a historia de 200 países por 200 anos em 4 minutos. Entrei em contato 
 <br>
 <br>
 <br>
-<br>
-<br>
+
 
 ## DataCamp   
 <p>Apesar de alguns projetos práticos, eu senti a necessidade de codar mais e então conheci a DataCamp, foi uma excelênte maneira de variar entre teoria e prática, realizando duas Tracks com quase 50 módulos e 150 horas, a plataforma vai te dando pontos a cada etapa concluída e isso estimula bastante, é quase como um jogo.</p>
