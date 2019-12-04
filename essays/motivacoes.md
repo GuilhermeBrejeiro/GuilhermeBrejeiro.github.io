@@ -32,6 +32,6 @@ contando a historia de 200 países por 200 anos em 4 minutos. Entrei em contato 
   
 <p>Apesar de alguns projetos práticos, eu senti a necessidade de codar mais e então conheci a DataCamp, foi uma excelênte maneira de variar entre teoria e prática, realizando duas Tracks com quase 50 módulos e 150 horas.</p>
 
-  * Career Track - Machine Learning Scientist with Python (23 courses, 93 hours)
-  * Career Track - Data Analyst with Python  (16 courses, 60 hours)
+  * Career Track - Machine Learning Scientist with Python - Concluído
+  * Career Track - Data Analyst with Python - Concluído
   
