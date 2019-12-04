@@ -27,7 +27,7 @@ labels:
   
 <img class="ui fluid image" src="../images/guardachuva_nivel.png">
 
-## Correlação não implica é causalidade
+## Correlação não implica em causalidade
 
 <p> Uma frase clássica da estátistica é que "Correlação não implica é causalidade", isso significa que não basta apenas elaborar um gráfico com duas ou mais variáveis e sair prevendo dados. Aqui, a importância do conhecimento do negócio se mostra primordial.</p>
 <p>Um exemplo disso é uma públicação cientifica, feita por um médico chamado Franz Messerli, no qual ele relaciona o consumo de chocolate com a quantidade de prêmios Nobel recebidos por país. </p>
