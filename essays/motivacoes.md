@@ -34,7 +34,7 @@ Estudei por um ano MBA em gestão de negócios e ao mesmo tempo cursava um Micro
   * [MBA em Big Data & Data Science - PUC](https://www.pucminas.br/PucVirtual/Pos-Graduacao/Paginas/Ci%C3%AAncia-de-Dados-e-Big-Data.aspx?moda=1&polo=1&area=11&curso=2944&situ=1) - Cursando
   
 ## Udemy
-  * [Machine Learning A-Z - Kiril Eremenko/Udemy](https://www.udemy.com/course/machinelearning/) - Concluído
+  * [Machine Learning A-Z - Kirill Eremenko/Udemy](https://www.udemy.com/course/machinelearning/) - Concluído
   
 ## Coursera
   * [Machine Learning - Stanford/Coursera](https://www.coursera.org/learn/machine-learning) - Concluído
