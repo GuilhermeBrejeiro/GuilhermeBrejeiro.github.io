@@ -44,7 +44,7 @@ contando a historia de 200 países por 200 anos em 4 minutos. Entrei em contato 
   
   
 ## Conheci a AWS DeepRAcer, competi e conquistei um NanoDegree patrocinado pela Amazon
-
+<img class="ui medium left floated rounded image" src="../images/sch_winner.jpg">
   * NanoDegree em Machine Learning Engineer - Udacity - Cursando com bolsa de 100%, premiação por ser TOP 50 Mundial da AWS DeepRacer/Udacity
   
 ## DataCamp   
@@ -53,4 +53,4 @@ contando a historia de 200 países por 200 anos em 4 minutos. Entrei em contato 
   * Career Track - Machine Learning Scientist with Python - Concluído
   * Career Track - Data Analyst with Python - Concluído
   
-<p>É incrível o que se pode atingir com bastante dedicação e foco, desenvolvi diversos projetos em cada um dos cursos e ainda desenvolvo projetos na DataCamp e Kaggle, com certeza migrar de área foi uma grande e certa escolha</p>
+<p>É incrível o que se pode atingir com bastante dedicação e foco, desenvolvi diversos projetos em cada um dos cursos e ainda desenvolvo projetos na DataCamp e Kaggle. Fico cada dia mais maravilhado com o potêncial que a ciência dos dados tem pela frente e me perco nos pensamentos ao imaginar como estaremos dentro de alguns anos! </p>
