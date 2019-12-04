@@ -27,10 +27,14 @@ fontes de conhecimento. Vim de uma formação em engenharia e uma especializaç�
 <p>Nesse tipo de modelo nós informamos ao algoritmo qual a variável de saída e quais as variáveis de entrada que ele vai utilizar. </p>
 <p>Por exemplo, uma base de dados com diversos apartamentos da região, com a quantidade de banheiros, quantidade de quartos, quantidade de áreas de lazer e o preço de cada um desses apartamentos. Com base em todos os atributos (as variáveis de entrada x do nosso modelo), o modelo irá prever o preço de um apartamento naquela determinada região (a variável de saída y do nosso modelo).</p>
 
+<p>Os algoritmos mais comuns para esse tipo de modelo são os algoritmos de classificação e regressão</p>
+
 ## Modelo Não Supervisionado
 
 <p>Nesse caso o próprio algoritmo vai identificar padrões desconhecidos entre os dados e agrupa-los, sendo possível extrair importantes métricas de bases de dados gigantescas. </p>
 <p>Um exemplo seria uma base de dados difícil, com idade, sexo, rotina e etc, com poucos dados seria muito dificil concluir que a rotina x interfere na saúde de um indivíduo y mas se um milhão de indivíduos com rotinas parecidas sofrem de problemas muito parecidos, então encontramos um padrão importante a ser analisado</p>
+
+<p> Os algoritmos mais comuns para esse tipo de modelo são algoritmos de clusterização e associação</p>
 
 
 ## Principais algoritmos de ML
