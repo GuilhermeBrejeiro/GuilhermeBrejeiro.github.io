@@ -56,8 +56,8 @@ Estudei por um ano MBA em gestão de negócios e ao mesmo tempo cursava um Micro
 
 <img class="ui fluid image" src="../images/DataCamp_041219.jpg">
 
-  * Career Track - Machine Learning Scientist with Python - Concluído
-  * Career Track - Data Analyst with Python - Concluído
+  * [Career Track - Machine Learning Scientist with Python](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) - Concluído
+  * [Career Track - Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python) - Concluído
 
 ## Hello World!
 <p>É incrível o que se pode atingir com bastante dedicação e foco, desenvolvi diversos projetos em cada um dos cursos e ainda desenvolvo projetos na DataCamp e Kaggle. Fico cada dia mais maravilhado com o potencial que a ciência dos dados tem pela frente e me perco nos pensamentos ao imaginar como estaremos dentro de alguns anos! </p>
