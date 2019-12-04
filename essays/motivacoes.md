@@ -53,3 +53,4 @@ contando a historia de 200 países por 200 anos em 4 minutos. Entrei em contato 
   * Career Track - Machine Learning Scientist with Python - Concluído
   * Career Track - Data Analyst with Python - Concluído
   
+<p>É incrível o que se pode atingir com bastante dedicação e foco, desenvolvi diversos projetos em cada um dos cursos e ainda desenvolvo projetos na DataCamp e Kaggle, com certeza migrar de área foi uma grande e certa escolha</p>
