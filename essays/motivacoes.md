@@ -27,7 +27,7 @@ Estudei por um ano MBA em gestão de negócios e ao mesmo tempo cursava um Micro
 
 ## Python
   * Python: Mundo 1, Mundo 2 e Mundo 3 - [Gustavo Guanabara](https://www.youtube.com/user/cursosemvideo) - Concluído
-  * [Python: Fundamento para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) - DSA - Concluído
+  * [Python: Fundamento para Análise de Dados - DSA](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) - Concluído
   
 ## Big Data  
   * [Big Data: Fundamentos 2.0 - DSA](https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos) - Concluído
