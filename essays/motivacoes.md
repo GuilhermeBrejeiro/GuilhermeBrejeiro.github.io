@@ -17,8 +17,7 @@ labels:
 
 ## Descobrindo a ciência dos Dados
 
-<p>Estudei por um ano MBA em gestão de negócios e ao mesmo tempo cursava um Micro Master em Supply Chain na EDX, no qual tive um módulo  sobre Machine Learning e, em uma determinada aula do meu MBA, me foi apresentado um [video](https://youtu.be/jbkSRLYSojo) do Hans Rosling 
-contando a historia de 200 países por 200 anos em 4 minutos. Entrei em contato com ele e questionei sobre os caminhos para atuar nessa área, estava nascendo a minha decisão de ser cientista de dados, finalmente havia me encontrado na profissão.</p>
+Estudei por um ano MBA em gestão de negócios e ao mesmo tempo cursava um Micro Master em Supply Chain na EDX, no qual tive um módulo  sobre Machine Learning e, em uma determinada aula do meu MBA, me foi apresentado um [video](https://youtu.be/jbkSRLYSojo) do Hans Rosling contando a historia de 200 países por 200 anos em 4 minutos. Entrei em contato com ele e questionei sobre os caminhos para atuar nessa área, estava nascendo a minha decisão de ser cientista de dados, finalmente havia me encontrado na profissão.
 
 
 ## Encarando o desafio de me especializar por MOOCs
