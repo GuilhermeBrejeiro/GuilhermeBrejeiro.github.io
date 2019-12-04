@@ -26,25 +26,25 @@ Estudei por um ano MBA em gestão de negócios e ao mesmo tempo cursava um Micro
 <p>Sabia que teria de estudar muito, mas com a vantagem de não precisar me focar tanto em cálculo, álgebra, estatística e probabilidade, devido as minhas formações. Portanto, apenas revisei o conteúdo e parti para cursos mais específicos. Essa é a relação dos cursos que eu fiz e ainda estou fazendo:</p>
 
 ## Python
-  * Python: Mundo 1, Mundo 2 e Mundo 3 - Gustavo Guanabara - Concluído
-  * Python: Fundamento para Análise de Dados - DSA - Concluído
+  * Python: Mundo 1, Mundo 2 e Mundo 3 - [Gustavo Guanabara](https://www.youtube.com/user/cursosemvideo) - Concluído
+  * [Python: Fundamento para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) - DSA - Concluído
   
 ## Big Data  
-  * Big Data: Fundamentos 2.0 - DSA - Concluído
+  * [Big Data: Fundamentos 2.0](https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos) - DSA - Concluído
   * MBA em Big Data & Data Science - PUC - Cursando
   
 ## Udemy
-  * Machine Learning A-Z - Kiril Eremenko/Udemy - Concluído
+  * [Machine Learning A-Z](https://www.udemy.com/course/machinelearning/) - Kiril Eremenko/Udemy - Concluído
   
 ## Coursera
-  * Machine Learning - Stanford/Coursera - Concluído
-  * Deep Learning Specialization - deeplearning.ai - Concluído
+  * [Machine Learning - Stanford/Coursera](https://www.coursera.org/learn/machine-learning) - Concluído
+  * [Deep Learning Specialization - deeplearning.ai](https://www.coursera.org/specializations/deep-learning) - Concluído
   
   
 ## AWS DeepRAcer, competi e conquistei um NanoDegree patrocinado pela Amazon
 <img class="ui small right floated rounded image" src="../images/sch_winner.jpg">
 
-  * NanoDegree em Machine Learning Engineer - Udacity - Cursando com bolsa de 100%, premiação por ser TOP 50 Mundial da AWS DeepRacer/Udacity
+  * [NanoDegree em Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) - Udacity - Cursando com bolsa de 100%, premiação por ser TOP 50 Mundial da AWS DeepRacer/Udacity
   
 <br>
 <br>
