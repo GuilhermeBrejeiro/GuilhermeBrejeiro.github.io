@@ -36,8 +36,8 @@ fontes de conhecimento. Vim de uma formação em engenharia e uma especializaç�
 ## Principais algoritmos de ML
 
 
-* Regressão
 * Classificação
+* Regressão
 * Decision Trees
 * Random Forest
 * Naive Bayes
