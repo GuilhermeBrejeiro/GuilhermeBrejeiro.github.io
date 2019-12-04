@@ -23,9 +23,10 @@ labels:
 
 ## Processo de Regressão
 
-<p> Diferente do processo anterior que da uma resposta categórica se é ou não é, nesse processo o objetivo é prever o comportamento futuro baseado nos critérios conhecidos. Um bom exemplo seria a venda de guarda chuvas, através da quantidade de chuva é possível prever a demanda que vai acontecer, com isso organizar o nível de estoque e pedidos, não tentamos responder de forma categórica se vai ou não ser vendido guarda chuvas mas sim a quantidade.
-  
+<p> Diferente do processo anterior que da uma resposta categórica se é ou não é, nesse processo o objetivo é prever o comportamento futuro baseado nos critérios conhecidos. Um bom exemplo seria a venda de guarda chuvas, através da quantidade de chuva é possível prever a demanda que vai acontecer, com isso organizar o nível de estoque e pedidos, não tentamos responder de forma categórica se vai ou não ser vendido guarda chuvas mas sim a quantidade.</p>
+<br>
 <img class="ui fluid image" src="../images/guardachuva_nivel.png">
+<br>
 
 ## Correlação não implica em causalidade
 
@@ -34,13 +35,14 @@ labels:
 <p>Olhando o gráfico realmente é impressionante, vamos encher todo mundo de chocolates e levar a humanidade para um novo patamar!</p>
 
 <p>O que não foi analisado e passou batido foram outras variáveis. O fato de que quanto maior a renda, maior o nível de estudo e maior o poder aquisitivo para compra de chocolate; ou o tamanho do país, EUA possui uma produção cientifica altíssima mas tambem possui uma população muito superior a Noruega, por exemplo. Ai está um exemplo de como é importante conhecer o negócio.</p>
-
+<br>
 <img class="ui fluid image" src="../images/grafico_choco.jpg">
-
+<br>
 
 <p> Outro exemplo, bastante gritante e muito utilizado é a relação existente entre a quantidade de filmes do Nicolas Cage e a quantidade de suícidios por afogamento</p>
-
+<br>
 <img class="ui fluid image" src="../images/nicolascage.png">
+<br>
 
 
   	
