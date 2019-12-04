@@ -17,7 +17,7 @@ labels:
 
 ## Descobrindo a ciência dos Dados
 
-<p>Estudei por um ano MBA em gestão de negócios e ao mesmo tempo cursava um Micro Master em Supply Chain na EDX, no qual tive um módulo  sobre Machine Learning e, em uma determinada aula do meu MBA, me foi apresentado um video do Hans Rosling 
+<p>Estudei por um ano MBA em gestão de negócios e ao mesmo tempo cursava um Micro Master em Supply Chain na EDX, no qual tive um módulo  sobre Machine Learning e, em uma determinada aula do meu MBA, me foi apresentado um [video](https://www.youtube.com/watch?v=jbkSRLYSojo) do Hans Rosling 
 contando a historia de 200 países por 200 anos em 4 minutos. Entrei em contato com ele e questionei sobre os caminhos para atuar nessa área, estava nascendo a minha decisão de ser cientista de dados, finalmente havia me encontrado na profissão.</p>
 
 
@@ -42,7 +42,7 @@ contando a historia de 200 países por 200 anos em 4 minutos. Entrei em contato 
   * Deep Learning Specialization - deeplearning.ai - Concluído
   
   
-## Conheci a AWS DeepRAcer, competi e conquistei um NanoDegree patrocinado pela Amazon
+## AWS DeepRAcer, competi e conquistei um NanoDegree patrocinado pela Amazon
 <img class="ui small right floated rounded image" src="../images/sch_winner.jpg">
 
   * NanoDegree em Machine Learning Engineer - Udacity - Cursando com bolsa de 100%, premiação por ser TOP 50 Mundial da AWS DeepRacer/Udacity
