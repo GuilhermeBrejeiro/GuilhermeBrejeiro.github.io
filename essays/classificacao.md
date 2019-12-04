@@ -19,6 +19,12 @@ labels:
 
 <img class="ui fluid image" src="../images/email_spam.jpg">
 
+<p> Outro exemplo poderia ser no ambiente médico, pela quantidade de genes que uma pessoa venha a ter, baseado em diversos casos anteriores, seria possível prever se há a necessidade de uma maior atenção e um maior número de exames. Com isso, muitos problemas médicos poderiam ser tratados logo de inicio, aumentando as chances de sucesso.</p>
+  
+<img class="ui fluid image" src="../images/modelo1.png">
+
+
 ## Processo de Regressão
 
+<p> Nesse processo
 
