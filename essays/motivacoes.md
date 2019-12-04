@@ -20,4 +20,4 @@ contando a historia de 200 países por 200 anos em 4 minutos. Entrei em contato 
 
 <p>Decidido o caminho que viria a tomar, estava na hora de estudar de maneira intensa e separei 6 meses para me dedicar a isso.</p>
 Sabia que teria de estudar muito, com a vantagem de não precisar me forcar tanto em cálculo, algebra, estátistica e probabilidade, devido as minhas formações, portanto apenas revisei o conteúdo e parti para cursos mais focados. Essa é a relação dos cursos que eu fiz e ainda estou fazendo:
-* PYthon
+ * PYthon
