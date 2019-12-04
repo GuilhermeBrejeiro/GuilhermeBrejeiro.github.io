@@ -46,7 +46,8 @@ contando a historia de 200 países por 200 anos em 4 minutos. Entrei em contato 
 ## Conheci a AWS DeepRAcer, competi e conquistei um NanoDegree patrocinado pela Amazon
 <img class="ui small left floated rounded image" src="../images/sch_winner.jpg">
   * NanoDegree em Machine Learning Engineer - Udacity - Cursando com bolsa de 100%, premiação por ser TOP 50 Mundial da AWS DeepRacer/Udacity
-  
+<br>
+<br>
 ## DataCamp   
 <p>Apesar de alguns projetos práticos, eu senti a necessidade de codar mais e então conheci a DataCamp, foi uma excelênte maneira de variar entre teoria e prática, realizando duas Tracks com quase 50 módulos e 150 horas.</p>
 
