@@ -33,7 +33,11 @@ fontes de conhecimento. Vim de uma formação em engenharia e uma especializaç�
 <p>Nesse caso o próprio algoritmo vai identificar padrões desconhecidos entre os dados e agrupa-los, sendo possível extrair importantes métricas de bases de dados gigantescas. </p>
 <p>Um exemplo seria uma base de dados médicos, com idade, sexo, rotina e etc, com poucos dados seria muito dificil concluir que a rotina x interfere na saúde de um individuo y mas se um milhão de individuos com rotinas parecidas sofrem de problemas muito parecidos, então encontramos um padrão importante a ser analisado</p>
 
-Por todas as minhas pesquisas e cursos, conclui que os principais algoritmos de Machine Learning são:
+
+## Principais algoritmos de ML
+
+Por todas as minhas pesquisas e cursos, esse algoritmos sempre aparecem e valem a pena estudar um pouco mais a fundo:
+
 * Regressão
 * Classificação
 * Decision Trees
