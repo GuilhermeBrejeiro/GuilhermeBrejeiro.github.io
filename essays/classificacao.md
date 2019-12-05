@@ -27,7 +27,19 @@ labels:
 <br>
 <img class="ui fluid image" src="../images/guardachuva_nivel.png">
 <br>
+<p>O exemplo anterior possui apenas uma variável, sendo considerado um modelo de Regressão Linear Simples, existem modelos mais complexos como de Regressão Linear Multipla e Regressão Logistica. Futuramente vou dedicar um post para explica-las.</p>
+  
+## Correlação
 
+<p>Saber se duas variáveis são correlacionadas, isto é, ao alterar uma das variáveis a outra sofre influência, basta plotar um gráfico e de formar bastante intuitiva é possível identificar.</p>
+
+<p> Na imagem a seguir, da direita para a esquerda, são exemplos de: forte correlação positiva, forte correlação negativa, correlação positiva moderada, correlação negativa moderada e nenhuma correlação:</p>
+  
+ 
+<img class="ui fluid image" src="../images/correlacoes.png">
+  
+  
+  
 ## Correlação não implica em causalidade
 
 <p> Uma frase clássica da estátistica é que "Correlação não implica é causalidade", isso significa que não basta apenas elaborar um gráfico com duas ou mais variáveis e sair prevendo dados. Aqui, a importância do conhecimento do negócio se mostra primordial.</p>
