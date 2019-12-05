@@ -41,7 +41,7 @@ labels:
 
 <p> Outro exemplo, bastante gritante e muito utilizado, é a relação existente entre a quantidade de filmes do Nicolas Cage e a quantidade de suícidios por afogamento</p>
 <br>
-<img class="ui fluid image" src="../images/nicolascage.png">
+<img class="ui fluid image" src="../images/nicolascage.jpeg">
 <br>
 
 
