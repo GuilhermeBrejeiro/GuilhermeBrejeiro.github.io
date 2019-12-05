@@ -72,6 +72,7 @@ No caso da clusterização, alguns exemplos dessa organização pode ser:
 * Baseada no centróide
 * Baseada na conectividade
 * Baseada na densidade
+* Baseada em métodos probabilísticos
 
 	
 <img class="ui fluid rounded image" src="../images/clustering_example.png">
