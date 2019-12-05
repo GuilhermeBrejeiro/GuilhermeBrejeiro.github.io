@@ -17,7 +17,7 @@ labels:
 <p> O processo de classificação visa identificar a qual categoria uma nova entrada de dados pertence, com base em um conjunto de dados históricos.</p> 
 <p>Um exemplo comum seria o classificador de spam. Baseado em antigos registros, com palavras chave frequentemente usadas em e-mails de spam, ele identifica e separa categoricamente entre: spam, não spam.</p>
 
-<img class="ui fluid image" src="../images/email_spam.jpg">
+<img class="ui fluid rounded image" src="../images/email_spam.jpg">
 
 
 
