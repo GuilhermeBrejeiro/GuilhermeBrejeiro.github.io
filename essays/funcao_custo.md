@@ -30,4 +30,18 @@ labels:
 
 <img class="ui fluid image" src="../images/exe_func_cust3.png">
 
+<p>A função de custo é utilizada tanto para regressão linear quanto para regressão logistica, seguem o mesmo conceito mas possuem formulas diferentes, conforme imagem abaixo:</p>
+
+Função de custo para regressão linear
+<img class="ui fluid image" src="../images/linear_costfunc.png">
+	
+Função de custo para regressão logística
+<img class="ui fluid image" src="../images/log_costfunc.png">
+
+<p>Essa diferença de funções acontece, pois no caso da regressão logistica, nossas variaveis de saída são binárias e, se utilizarmos a função de custo para regressão linear, o plot do gradiente descendente será não convexo, ocasionando diversos pontos de mínimo, ocultando o minimo real.</p>
+
+	
+
+
+
 
