@@ -1,17 +1,18 @@
- ---
+---
 layout: essay
 type: essay
-title:  Regressão Linear
+title:  Classificação
 # All dates must be YYYY-MM-DD format!
 date: 2019-11-04
 labels:
-  - Regressão Linear
+  - Regressão Logística
   - Classificação
   - Aprender ensinando
 ---
 
 
+
 ## Variáveis continuas
 
-Teste
+<p>Teste</p>
 
