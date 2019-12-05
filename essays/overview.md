@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title:  "Machine Learning: Classificação e Regressão"
+title:  "ML: Classificação, Regressão e Clusterização"
 # All dates must be YYYY-MM-DD format!
 date: 2019-11-04
 labels:
