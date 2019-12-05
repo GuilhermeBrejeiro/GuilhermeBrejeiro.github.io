@@ -39,7 +39,7 @@ labels:
 <img class="ui fluid image" src="../images/grafico_choco.jpg">
 <br>
 
-<p> Outro exemplo, bastante gritante e muito utilizado, é a relação existente entre a quantidade de filmes do Nicolas Cage e a quantidade de suícidios por afogamento</p>
+<p> Outro exemplo, bastante gritante e muito utilizado, é a relação existente entre a quantidade de filmes do Nicolas Cage e a quantidade de mortes por afogamento em piscina</p>
 <br>
 <img class="ui fluid image" src="../images/nicolascage.jpeg">
 <br>
