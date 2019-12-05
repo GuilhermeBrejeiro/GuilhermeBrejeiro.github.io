@@ -61,7 +61,24 @@ Na imagem a seguir, da direita para a esquerda, são exemplos de:
 <img class="ui fluid image" src="../images/nicolascage.jpeg">
 <br>
 
+## Processo de Clusterização
 
+<p> Falando um pouco de aprendizagem não supervisionada, vem os processos de clusterização. Basicamente, nesse processo, o algoritmo procura caraterísticas semelhantes, dividindo em pequenos grupos, esse número de grupos varia e é um parâmetro que nós precisamos especificar manualmente.</p>
+
+<p>Como exemplo, vamos imaginar a organização dos produtos em um supermercado. Pode ser feito pelo preço, pela marca, pelo local de uso, pela data de validade, pela cor, etc. </p>
+
+No caso da clusterização, alguns exemplos dessa organização pode ser:
+
+* Baseada no centróide
+* Baseada na conectividade
+* Baseada na densidade
+
+	
+<img class="ui fluid image" src="../images/clustering_example.png">
+
+
+  
+  
   	
 
 
