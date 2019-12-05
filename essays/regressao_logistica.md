@@ -13,7 +13,7 @@ labels:
 
 ## Regressão Logística
 
-<p>Regressão logística é um modelo usado para problemas de classificação, como explicado anteriormente, nesse tipo de problema nós tentamos
+<p>É um modelo usado para problemas de classificação, como explicado anteriormente, nesse tipo de problema nós tentamos
 prever uma resposta binária, como um sim ou não, certo ou errado e etc.</p>
 
 <p>E qual o motivo de usar um modelo de regressão logistica ao invés de um modelo de regressão linear?</p>
