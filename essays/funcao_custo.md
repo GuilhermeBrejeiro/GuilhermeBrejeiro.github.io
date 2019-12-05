@@ -26,7 +26,7 @@ labels:
 <p>Exemplo de inúmeras possibilidades</p>
 <img class="ui fluid image" src="../images/exe_func_cust2.png">
 
-<p>Os valores de erro de inúmeras possibilidades, no seu ponto mais baixo está o valor que representa a reta da função com o melhor acerto do modelo, portanto utilizamos o gradiente descendente para encontrar esse ponto</p>
+<p>Cada ponto do gráfico é o resultado da funçao de custo de cada reta, no seu ponto mais baixo está o valor que representa a reta da função com o melhor acerto do modelo, portanto utilizamos o gradiente descendente para encontrar esse ponto</p>
 
 <img class="ui fluid image" src="../images/exe_func_cust3.png">
 
