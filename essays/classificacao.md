@@ -33,7 +33,12 @@ labels:
 
 <p>Saber se duas variáveis são correlacionadas, isto é, ao alterar uma das variáveis a outra sofre influência, basta plotar um gráfico e de formar bastante intuitiva é possível identificar.</p>
 
-<p> Na imagem a seguir, da direita para a esquerda, são exemplos de: forte correlação positiva, forte correlação negativa, correlação positiva moderada, correlação negativa moderada e nenhuma correlação:</p>
+Na imagem a seguir, da direita para a esquerda, são exemplos de: 
+  * forte correlação positiva
+  * forte correlação negativa
+  * correlação positiva moderada
+  * correlação negativa moderada 
+  * nenhuma correlação
   
  
 <img class="ui fluid image" src="../images/correlacoes.png">
