@@ -26,11 +26,11 @@ prever uma resposta binária, como um sim ou não, certo ou errado e etc.</p>
 
 <p>Devido a esse problema na utilização de modelos lineares, se faz necessário a utilização de modelos de regressão logística.</p>
 
-Para utiliza-la, será necessário efetuar algumas alterações no modelo linear:
+Nesse caso, será necessário efetuar algumas alterações no modelo linear:
  * Utilização do sigmoid no teste de hipótese, uma equação que irá manter todos os valores dentro do range (0,1), portanto valores com percentual abaixo de 0.5 tem um resposta 0 e valores com percentual igual ou acima de 0.5 tem uma resposta 1. 
- * Utilização de uma função de custo, diferente da função utilizada em modelos lineares, exatamente por termos entradas binárias, sendo necessário um modelo matematico logaritmico, conhecido como entropia cruzada.
+ * Utilização de uma função de custo, diferente da função utilizada em modelos lineares, exatamente por termos entradas binárias, sendo necessário um modelo matemático logarítmico, conhecido como entropia cruzada.
 
-<p>Feita as alterações, o nosso modelo agora consegue prever uma resposta binária, sem ser prejudicado por valores extremamente altos ou baixos que possam vir a aparecer.</p>
+<p>Feitas as alterações, o nosso modelo agora consegue prever uma resposta binária, sem ser prejudicado por valores extremamente altos ou baixos que possam vir a aparecer.</p>
 
 <img class="ui fluid image" src="../images/reg_lin_fake2.png">
 
