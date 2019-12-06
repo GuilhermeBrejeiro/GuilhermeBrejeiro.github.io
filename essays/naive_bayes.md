@@ -25,7 +25,7 @@ Ela nos fornece a probabilidade de acontecer o evento B, dado que aconteceu o ev
 
 <p>Utilizando o evento do tempo X trânsito, qual a probabilidade de ter trânsito dado que está chovendo?</p>
 
-<img class="ui fluid image" src="../images/tab_freq.png">
+<img class="ui medium fluid image" src="../images/tab_freq.png">
 
 <p>Nessa tabela temos a frequência de ocorrências de transito quando choveu e quando fez Sol, para responder a pergunta primeiro vamos calcular a probabilidade de chover quando tem trânsito, em seguida a probabilidade de chover e por fim a probabilidade de ter trânsito</p>
 
