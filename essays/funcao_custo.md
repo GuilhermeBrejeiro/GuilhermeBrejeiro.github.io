@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title:  "Função custo: Linear e Logística"
 # All dates must be YYYY-MM-DD format!
-date: 2019-11-04
+date: 2019-08-26
 labels:
   - Machine Learning
   - Cost Function
