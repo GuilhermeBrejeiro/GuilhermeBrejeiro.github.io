@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: K Means
 # All dates must be YYYY-MM-DD format!
-date: 2019-11-04
+date: 2019-10-04
 labels:
   - Kmeans
   - Agrupamento
