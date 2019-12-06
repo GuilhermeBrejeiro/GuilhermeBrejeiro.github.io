@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: K Nearest Neighbours (KNN)
 # All dates must be YYYY-MM-DD format!
-date: 2019-11-04
+date: 2019-09-20
 labels:
   - KNN
   - k vizinhos
