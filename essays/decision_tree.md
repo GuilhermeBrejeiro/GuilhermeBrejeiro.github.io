@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Árvore de decisão e Floresta aleatória
 # All dates must be YYYY-MM-DD format!
-date: 2019-11-04
+date: 2019-09-01
 labels:
   - Decision Tree
   - Random Tree
