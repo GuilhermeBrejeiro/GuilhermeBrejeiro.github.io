@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title:  Machine Learning e seus principais algoritmos
 # All dates must be YYYY-MM-DD format!
-date: 2019-11-04
+date: 2019-08-04
 labels:
   - Machine Learning
   - Algoritmos
