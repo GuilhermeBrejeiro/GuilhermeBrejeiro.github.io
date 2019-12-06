@@ -18,12 +18,12 @@ labels:
 
 <p>Aqui podemos ver de forma ilustrada como o algoritmo separou os dados, pelas suas características, em quadrados vermelhos e bolinhas azuis. Ao colocar esse modelo para prever a categoria do triângulo, pela quantidade de k vizinhos que especificarmos, o algoritmo vai medir a distância de k elementos e decidir em qual categoria o novo elemento se encaixa, nesse caso ele será uma bolinha azul</p>
 
-<img class="ui fluid image" src="../images/knn_exemplo.png">
+<img class="ui medium fluid image" src="../images/knn_exemplo.png">
 
 
 <p>Já nesse segundo caso, qual seria a categoria do triângulo? </p>
 <p>Bem, tudo vai depender da quantidade k que especificarmos, se for 1, será uma bolinha azul pois é o elemento mais próximo, se for 4 será um quadrado vermelho pois nas vizinhanças mais próximas do triângulo, três são quadrados vermelhos.
   
-<img class="ui fluid image" src="../images/knn_exemplo2.png">
+<img class="ui medium fluid image" src="../images/knn_exemplo2.png">
 
 <p>OBS: A definição do número de k é arbitrária, valores baixos podem ser mais suscetíveis aos outliers e valores muito altos criarão tantas categorias que derrubará a precisão do modelo.
