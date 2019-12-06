@@ -26,7 +26,7 @@ labels:
 <p>Bastante parecida com a anterior, nessa regressão nós tentamos aumentar a precisão do modelo adicionando outras váriaveis que influênciam no valor de saída. Como no exemplo anterior, difícilmente podemos afirmar que o tamanho da casa é o unico fator que influência no valor para melhorarmos a precisão utilizamos a quantidade de cômodos, região, área externa, etc.</p>
 
 <p>Parecida com a formula anterior, agora temos outras variáveis influênciando no valor de saída</p>
-<img class="ui small fluid image" src="../images/eq_reta_mult.png">
+<img class="ui medium fluid image" src="../images/eq_reta_mult.png">
 
 <p>OBS: Como podemos ver, é possível utilizar n varíaveis para prever o nosso modelo, porém não é aconselhavél utilizar variáveis colineáres, pois isso prejudica o modelo final.</p>
 	
