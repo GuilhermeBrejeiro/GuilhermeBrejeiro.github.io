@@ -27,4 +27,4 @@ labels:
 
 <img class="ui medium floated right image" src="../images/SVM3.png">
 
-<p>Com a utilização do SVM conseguimos criar hiperplanos para separação dos dados, margens que não sofrem influência por outliers e com a utilização do truque de Kernel ainda preservamos poder computacional.</p> 
+<p>Com a utilização do SVM conseguimos criar hiperplanos para separação dos dados, margens que não sofrem influência por outliers e com o truque de Kernel, ainda preservamos poder computacional.</p> 
