@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title:  Classificação
 # All dates must be YYYY-MM-DD format!
-date: 2019-11-04
+date: 2019-08-11
 labels:
   - Regressão Logística
   - Classificação
