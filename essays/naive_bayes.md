@@ -17,7 +17,7 @@ labels:
 <p>Naive Bayes nos dá uma probabilidade de um fenômeno acontecer, dato outro fenômeno tenha acontecido, como por exemplo a probabilidade de ter trânsito dado que está chovendo, ou dado que está sol, e assim por diante.</p>
 
 <p>Está é a formula do teorema:</p> 
-<img class="ui fluid image" src="../images/Naive_formula.png">
+<img class="ui medium fluid image" src="../images/Naive_formula.png">
 
 Ela nos fornece a probabilidade de acontecer o evento B, dado que aconteceu o evento A.
 
