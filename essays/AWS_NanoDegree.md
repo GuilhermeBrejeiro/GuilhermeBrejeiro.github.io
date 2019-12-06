@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title:  AWS DeepRacer e o Reinforcement Learning
 # All dates must be YYYY-MM-DD format!
-date: 2019-09-15
+date: 2019-11-03
 labels:
   - reinforcement learning
   - Competição
