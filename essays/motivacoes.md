@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title:  Minha trajetória, motivações e cursos
 # All dates must be YYYY-MM-DD format!
-date: 2019-08-31
+date: 2019-11-25
 labels:
   - Machine Learning
   - Cursos
