@@ -31,12 +31,13 @@ labels:
 
 <img class="ui fluid image" src="../images/numpy1.png">
 	
-<p>Com esse array, trabalhar com elementos matemáticos em cada item se torna muito rápido. No exemplo, é possível ver uma lista multiplicada por um dado número e um array multiplicado por esse número, no segundo caso cada valor é multiplicado</p>
+<p>Com esse array, trabalhar com elementos matemáticos em cada item se torna muito rápido. No exemplo, é possível ver uma lista multiplicada por um dado número e um array multiplicado por esse número, no segundo caso cada valor é multiplicado individualmente:</p>
 
 <img class="ui fluid image" src="../images/numpy2.png">
 	
 <img class="ui fluid image" src="../images/numpy3.png">
 	
+
 
 
 
