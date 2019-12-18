@@ -52,7 +52,7 @@ iloc: referenciado pelos indices
 
 <p>Alem de importar os dados, é possível durante a mesma linha de comando ja especificar o nome das colunas, limpar e até substituir valores nulos</p>
 
-<img class="ui fluid image" src="../images/pandas7.png">
+<img class="ui fluid medium image" src="../images/pandas7.png">
 
 
 
