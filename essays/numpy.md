@@ -43,11 +43,13 @@ labels:
 
 <p>Com quatro dimensões, podemos imaginar um array contendo diversos arrays de três dimensões.</p>
 
-<p>Com NumPy é possível executar operações matemáticas em arranjos de diferentes dimensões, ele expande os arranjos e executa as operações matemáticas, como se é feito em algebra linear.</p>
+<p>No exemplo abaixo vemos a multiplicação de matrizes sendo feita sem a função especifica do NumPy, ele expande os arranjos e executa as operações matemáticas.</p>
 
 <img class="ui fluid image" src="../images/numpy6.png">
 
+<p>Utilizando a função "dot" conseguimos efetuar a multiplicação dos arranjos da maneira correta, conforme a algebra linear</p>
 
+<img class="ui fluid image" src="../images/numpy7.png">
 
 	
 
