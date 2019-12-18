@@ -18,10 +18,9 @@ labels:
 
 <img class="ui fluid medium image" src="../images/pandas1.png">
 
-## DataFrame
-<p>Em geral, um DataFrame em Pandas será constituído de 3 componentes principais: os dados, o indice e as colunas</p>
+## Series e DataFrame
 
-<p>Os tipos principais de estrutura de dados no Pandas é uma Series, que é como um arranjo unidimensional e um DataFrama, que é uma estrutura bidimensional de dados, parecido com uma planilha no Excel</p>
+<p>Os tipos principais de estrutura de dados no Pandas é uma Series, que é como um arranjo unidimensional e um DataFrame, que é uma estrutura bidimensional de dados, parecido com uma planilha no Excel</p>
 
 <img class="ui fluid medium image" src="../images/pandas2.png">
 
