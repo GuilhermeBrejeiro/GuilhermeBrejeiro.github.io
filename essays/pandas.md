@@ -42,6 +42,6 @@ iloc: referenciado pelos indices
 
 <p>No caso abaixo, aplicando ambos de forma a trazer a o mesmo resultado:</p>
 
-<img class="ui fluid large image" src="../images/pandas5.png">
+<img class="ui fluid image" src="../images/pandas5.png">
 
 
