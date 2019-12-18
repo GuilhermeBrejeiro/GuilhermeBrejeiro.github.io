@@ -22,16 +22,16 @@ labels:
 
 <p>Os tipos principais de estrutura de dados no Pandas é uma Series, que é como um arranjo unidimensional e um DataFrame, que é uma estrutura bidimensional de dados, parecido com uma planilha no Excel</p>
 
-<img class="ui fluid medium image" src="../images/pandas2.png">
+<img class="ui fluid large image" src="../images/pandas2.png">
 
 <p>Podemos observar que a primeira coluna de indice veio preenchida com valores sequenciais automaticamente, mas podemos altera-los acrescentando o campo de index</p>
 
-<img class="ui fluid medium image" src="../images/pandas3.png">
+<img class="ui fluid large image" src="../images/pandas3.png">
 
 ## Stats
 <p>O Pandas nos fornece diversas facilidades analiticas dos dados, com facilidade podemos ter estátisticas do nosso DataFrame utilizando .describe()</p>
 
-<img class="ui fluid medium image" src="../images/pandas4.png">
+<img class="ui fluid large image" src="../images/pandas4.png">
 
 ## Localizando valor
 
@@ -42,6 +42,6 @@ iloc: referenciado pelos indices
 
 <p>No caso abaixo, aplicando ambos de forma a trazer a o mesmo resultado:</p>
 
-<img class="ui fluid medium image" src="../images/pandas5.png">
+<img class="ui fluid large image" src="../images/pandas5.png">
 
 
