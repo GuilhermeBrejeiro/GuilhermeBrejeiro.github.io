@@ -36,6 +36,15 @@ labels:
 <img class="ui fluid image" src="../images/numpy2.png">
 	
 <img class="ui fluid image" src="../images/numpy3.png">
+
+<p>No exemplo acima visualizamos uma sequência númerica em uma dimensão (1D), podemos ter 2D, 3D e nD, visualmente fica cada vez mais dificil exemplificar, mas NumPy se torna uma ferramenta incrível e extremamente rápida para lidar com uma grande quantidade de números exatamente por essas execuções simultâneas em grandes dimensões.</p>
+
+<img class="ui fluid image" src="../images/numpy5.png">
+
+<p>Com quatro dimensões, podemos imaginar um array contendo diversos arrays de três dimensões.</p>
+
+
+
 	
 
 
