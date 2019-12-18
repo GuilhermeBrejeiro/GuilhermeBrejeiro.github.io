@@ -28,5 +28,8 @@ labels:
 
 <img class="ui fluid medium image" src="../images/pandas3.png">
 
+<p>O Pandas nos fornece diversas facilidades analiticas dos dados, com facilidade podemos ter estátisticas do nosso DataFrame utilizando .describe()</p>
+
+<img class="ui fluid medium image" src="../images/pandas4.png">
 
 
