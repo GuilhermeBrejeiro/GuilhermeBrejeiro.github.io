@@ -27,21 +27,25 @@ labels:
 
 <p>Com o NumPy importado, podemos criar arrays, abaixo o exemplo de 1D e 2D:</p>
 
-<p>Nesse exemplo, foi criado uma lista de elementos e em seguida ela foi transformada em um array, com isso ganhamos muitas vantagens para trabalhar com esses números</p>
+<p>Nesse exemplo, foi criado uma lista de elementos e em seguida ela foi transformada em um arranjo, com isso ganhamos muitas vantagens para trabalhar com esses números</p>
 
 <img class="ui fluid image" src="../images/numpy1.png">
 	
-<p>Com esse array, trabalhar com elementos matemáticos em cada item se torna muito rápido. No exemplo, é possível ver uma lista multiplicada por um dado número e um array multiplicado por esse número, no segundo caso cada valor é multiplicado individualmente:</p>
+<p>Com esse arranjo, trabalhar com elementos matemáticos em cada item se torna muito rápido. No exemplo, é possível ver uma lista multiplicada por um dado número e um arranjo multiplicado por esse número, no segundo caso cada valor é multiplicado individualmente:</p>
 
 <img class="ui fluid image" src="../images/numpy2.png">
 	
 <img class="ui fluid image" src="../images/numpy3.png">
 
-<p>No exemplo acima visualizamos uma sequência númerica em uma dimensão (1D), podemos ter 2D, 3D e nD, visualmente fica cada vez mais dificil exemplificar, mas NumPy se torna uma ferramenta incrível e extremamente rápida para lidar com uma grande quantidade de números exatamente por essas execuções simultâneas em grandes dimensões.</p>
+<p>Visualizamos uma sequência númerica em uma dimensão (1D), podemos ter 2D, 3D e nD, visualmente fica cada vez mais dificil exemplificar, mas NumPy se torna uma ferramenta incrível e extremamente rápida para lidar com uma grande quantidade de números, exatamente por essas execuções simultâneas em grandes dimensões.</p>
 
 <img class="ui fluid image" src="../images/numpy5.png">
 
 <p>Com quatro dimensões, podemos imaginar um array contendo diversos arrays de três dimensões.</p>
+
+<p>Com NumPy é possível executar operações matemáticas em arranjos de diferentes dimensões, ele expande os arranjos e executa as operações matemáticas, como se é feito em algebra linear.</p>
+
+<img class="ui fluid image" src="../images/numpy6.png">
 
 
 
