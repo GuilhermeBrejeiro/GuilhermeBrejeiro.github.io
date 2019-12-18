@@ -51,6 +51,10 @@ labels:
 
 <img class="ui fluid image" src="../images/numpy7.png">
 
+
+<p>Abaixo algumas outras funções do NumPy que permite gerar matrizes com todos os elementos 0, 1 ou com valores aleatórios, muito úteis em algumas aplicações.</p>
+
+<img class="ui fluid image" src="../images/numpy8.png">
 	
 
 
