@@ -17,13 +17,13 @@ labels:
 
 <p>Para a utilização dessa biblioteca, há a necessidade de instalação. No windows, já com o Python instalado, abra o prompt de comando em modo administrador e digite: </p>
 
-<img class="ui fluid image" src="../images/numpy4.png">
+<img class="ui fluid medium image" src="../images/numpy4.png">
 
 <p>Terminado a instalação, basta fechar o prompt de comando e já é possível utilizar o NumPy junto ao Python com o comando: import numpy</p>
 
 <p>Como todas as bibliotecas é possível utilizar um apelido para a mesma, uma boa prática ao utilizar numpy é apelida-lo de np:</p>
 	
-<img class="ui fluid image" src="../images/importnumpy.png">
+<img class="ui fluid medium image" src="../images/importnumpy.png">
 
 <p>Com o NumPy importado, podemos criar arrays, abaixo o exemplo de 1D e 2D:</p>
 
