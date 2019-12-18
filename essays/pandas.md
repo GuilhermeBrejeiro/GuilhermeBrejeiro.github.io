@@ -44,4 +44,19 @@ iloc: referenciado pelos indices
 
 <img class="ui fluid image" src="../images/pandas5.png">
 
+## Importando dados
+
+<p>Outra função muito importante e muito utilizada no Pandas é a importação de dados, como txt, csv, entre outros</p>
+
+<img class="ui fluid image" src="../images/pandas6.png">
+
+<p>Alem de importar os dados, é possível durante a mesma linha de comando ja especificar o nome das colunas, limpar e até substituir valores nulos</p>
+
+<img class="ui fluid image" src="../images/pandas7.png">
+
+
+
+
+
+
 
