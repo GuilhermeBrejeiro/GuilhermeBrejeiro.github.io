@@ -28,8 +28,20 @@ labels:
 
 <img class="ui fluid medium image" src="../images/pandas3.png">
 
+## Stats
 <p>O Pandas nos fornece diversas facilidades analiticas dos dados, com facilidade podemos ter estátisticas do nosso DataFrame utilizando .describe()</p>
 
 <img class="ui fluid medium image" src="../images/pandas4.png">
+
+## Localizando valor
+
+<p>Duas maneiras bastante comuns de localizar valores em um DataFrame: .loc e .iloc</p>
+
+loc: referenciado pelos rótulos das linhas e colunas
+iloc: referenciado pelos indices
+
+<p>No caso abaixo, aplicando ambos de forma a trazer a o mesmo resultado:</p>
+
+<img class="ui fluid medium image" src="../images/pandas5.png">
 
 
