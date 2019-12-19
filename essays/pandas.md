@@ -71,6 +71,7 @@ iloc: referenciado pelos indices
 * axis vem por padrão com o valor 0, com isso a função será executada levando em consideração que estamos nos referindo as linhas, caso seja alterado para 1, então a função passará a considerar o tratamento das colunas.
 
 
+<img class="ui image" src="../images/pandas9.png">
 
 
 
