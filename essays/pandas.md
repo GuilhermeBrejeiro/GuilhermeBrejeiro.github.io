@@ -60,7 +60,7 @@ iloc: referenciado pelos indices
 
 <p>Podemos verificar se existem valores nulos e valores não nulos com as funçÕes .isnull() e .notnull(), elas retornarão valores boolianos, True ou False.
 
-<img class="ui fluid medium image" src="../images/pandas8.png">
+<img class="ui medium image" src="../images/pandas8.png">
 
 
 
