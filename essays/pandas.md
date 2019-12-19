@@ -65,13 +65,15 @@ iloc: referenciado pelos indices
 
 <p>Outra função extremamente utilizada é .dropna(), ela permite descartar uma coluna ou uma linha que possua valores nulos. Quando são poucos valores, simplesmente descarta-los não vai causar grandes problemas no dataset, se a quantidade for muito alta, existem tecnicas para tentar minimizar esse problema</p>
 
+<img class="ui image" src="../images/pandas9.png">
+
  * O argumento inplace, se verdadeiro fará com que os dados descartados sejam descartados do dataset que foi carregado, sobreponto o dataset anterior
  * how, se preenchido com all, descartará as linhas e colunas que são compostar completamente por valores nulos
  * thresh permite especificar a quantidade de valores nulos que deve existir para que seja ou não descartado a linha/coluna em questão
  * axis vem por padrão com o valor 0, com isso a função será executada levando em consideração que estamos nos referindo as linhas, caso seja alterado para 1, então a função passará a considerar o tratamento das colunas
 
-<br>
-<img class="ui image" src="../images/pandas9.png">
+
+
 
 
 
