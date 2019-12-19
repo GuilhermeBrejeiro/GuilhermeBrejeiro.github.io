@@ -22,7 +22,7 @@ labels:
 
 <p>Os tipos principais de estrutura de dados no Pandas é uma Series, que é como um arranjo unidimensional e um DataFrame, que é uma estrutura bidimensional de dados, parecido com uma planilha no Excel</p>
 
-<img class="ui fluid large image" src="../images/pandas2.png">
+<img class="ui fluid image" src="../images/pandas2.png">
 
 <p>Podemos observar que a primeira coluna de indice veio preenchida com valores sequenciais automaticamente, mas podemos altera-los acrescentando o campo de index</p>
 
