@@ -54,6 +54,15 @@ iloc: referenciado pelos indices
 
 <img class="ui fluid medium image" src="../images/pandas7.png">
 
+## Preparando os dados
+
+<p>Depois de importar o dataset com os dados que serão analisados, antes de qualquer coisa é importante prepara-los e limpa-los, pois se dados ruins entram no modelo de ML então dados ruins sairão do modelo de ML</p>
+
+<p>Podemos verificar se existem valores nulos e valores não nulos com as funçÕes .isnull() e .notnull(), elas retornarão valores boolianos, True ou False.
+
+<img class="ui fluid medium image" src="../images/pandas8.png">
+
+
 
 
 
