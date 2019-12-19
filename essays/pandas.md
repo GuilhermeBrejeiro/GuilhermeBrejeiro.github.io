@@ -48,11 +48,11 @@ iloc: referenciado pelos indices
 
 <p>Outra função muito importante e muito utilizada no Pandas é a importação de dados, como txt, csv, entre outros</p>
 
-<img class="ui fluid image" src="../images/pandas6.png">
+<img class="ui medium image" src="../images/pandas6.png">
 
 <p>Alem de importar os dados, é possível durante a mesma linha de comando ja especificar o nome das colunas, limpar e até substituir valores nulos</p>
 
-<img class="ui fluid medium image" src="../images/pandas7.png">
+<img class="ui fluid large image" src="../images/pandas7.png">
 
 ## Preparando os dados
 
@@ -60,7 +60,7 @@ iloc: referenciado pelos indices
 
 <p>Podemos verificar se existem valores nulos e valores não nulos com as funçÕes .isnull() e .notnull(), elas retornarão valores boolianos, True ou False.
 
-<img class="ui medium image" src="../images/pandas8.png">
+<img class="ui large image" src="../images/pandas8.png">
 
 
 
