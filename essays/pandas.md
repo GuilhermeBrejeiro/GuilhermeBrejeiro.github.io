@@ -62,7 +62,7 @@ iloc: referenciado pelos indices
 
 <img class="ui image" src="../images/pandas8.png">
 
-
+## Eliminando valores nulos
 <p>Outra função extremamente utilizada é .dropna(), ela permite descartar uma coluna ou uma linha que possua valores nulos. Quando são poucos valores, simplesmente descarta-los não vai causar grandes problemas no dataset, se a quantidade for muito alta, existem tecnicas para tentar minimizar esse problema</p>
 
 <img class="ui image" src="../images/pandas9.png">
@@ -72,9 +72,17 @@ iloc: referenciado pelos indices
   * thresh permite especificar a quantidade de valores nulos que deve existir para que seja ou não descartado a linha/coluna em questão
   * axis vem por padrão com o valor 0, com isso a função será executada levando em consideração que estamos nos referindo as linhas, caso seja alterado para 1, então a função passará a considerar o tratamento das colunas
 
+## Lidando com valores nulos
 
+<p>Em muitos casos eliminar os valores nulos pode acabar com o modelo, nem sempre valores nulos foram mal computados, pode acontecer que uma das opções seria o valor nulo, como por exemplo uma lista de pessoas e qual veículo elas possuem, se elas não possuem então ter o valor nulo faz sentido e retirar essa linha de dados não é uma atitude correta</p>
 
+<img class="ui image" src="../images/pandas10.png">
 
+  * metodo por padrão vem como None, no exemplo foi usado o metodo ffill, que preenche o valores NaN com o valor a frente
+  * limit serve para limitar a quantidade de preenchimentos, nem sempre queremos preencher todos os NaN com um determinado valor
+  * podemos utilizar mean() para preencher os valores NaN com a média dos valores preenchidos
+  * podemos usar median() para preencher com a mediana
+  
 
 
 
