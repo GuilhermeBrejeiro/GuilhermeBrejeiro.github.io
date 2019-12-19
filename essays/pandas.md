@@ -89,6 +89,15 @@ iloc: referenciado pelos indices
 
 <img class="ui image" src="../images/pandas11.png">
 
+## Transformando variáveis categoricas em numéricas
+
+<p>Em Machine Learning, geralmente os modelos não lidam muito bem com dados categóricos, o modelo não consegue distinguir em um dataset com homens e mulheres, por exemplo, o que é a palavra homem e a palavra mulher utilizada. Para isso transformamos esses nomes em numeros, cada qual em uma coluna.</p>
+
+<img class="ui image" src="../images/pandas12.png">
+
+<p>Como podemos ver, Pandas é uma biblioteca incrível e que facilita muito a vida de um cientista de dados, possui diversas funções e uma documentação incrível</p>
+
+
 
 
 
