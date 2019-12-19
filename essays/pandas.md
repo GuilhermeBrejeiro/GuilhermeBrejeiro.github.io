@@ -83,6 +83,12 @@ iloc: referenciado pelos indices
   * podemos utilizar mean() para preencher os valores NaN com a média dos valores preenchidos
   * podemos usar median() para preencher com a mediana
   
+## Combinando datasets
+
+<p>Quando possuimos mais de uma fonte de dados e queremos uni-las, podemos concatena-las com a função pd.concat(). Além disso, para impedir que os indices venham quebrados, tornando-os contínuos, podemos marcar como True a opção ignore_index:</p>
+
+<img class="ui image" src="../images/pandas11.png">
+
 
 
 
