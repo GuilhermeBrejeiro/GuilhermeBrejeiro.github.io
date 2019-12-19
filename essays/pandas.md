@@ -67,10 +67,10 @@ iloc: referenciado pelos indices
 
 <img class="ui image" src="../images/pandas9.png">
 
- * O argumento inplace, se verdadeiro fará com que os dados descartados sejam descartados do dataset que foi carregado, sobreponto o dataset anterior
- * how, se preenchido com all, descartará as linhas e colunas que são compostar completamente por valores nulos
- * thresh permite especificar a quantidade de valores nulos que deve existir para que seja ou não descartado a linha/coluna em questão
- * axis vem por padrão com o valor 0, com isso a função será executada levando em consideração que estamos nos referindo as linhas, caso seja alterado para 1, então a função passará a considerar o tratamento das colunas
+  * O argumento inplace, se verdadeiro fará com que os dados descartados sejam descartados do dataset que foi carregado, sobreponto o dataset anterior
+  * how, se preenchido com all, descartará as linhas e colunas que são compostar completamente por valores nulos
+  * thresh permite especificar a quantidade de valores nulos que deve existir para que seja ou não descartado a linha/coluna em questão
+  * axis vem por padrão com o valor 0, com isso a função será executada levando em consideração que estamos nos referindo as linhas, caso seja alterado para 1, então a função passará a considerar o tratamento das colunas
 
 
 
