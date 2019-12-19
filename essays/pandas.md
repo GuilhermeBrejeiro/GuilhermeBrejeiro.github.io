@@ -95,7 +95,7 @@ iloc: referenciado pelos indices
 
 <img class="ui image" src="../images/pandas12.png">
 
-<p>Como podemos ver, Pandas é uma biblioteca incrível e que facilita muito a vida de um cientista de dados, possui diversas funções e uma documentação incrível</p>
+<p>Como podemos ver, Pandas é uma biblioteca bem robusta e que facilita muito a vida de um cientista de dados, possui diversas funções e uma documentação incrível</p>
 
 
 
