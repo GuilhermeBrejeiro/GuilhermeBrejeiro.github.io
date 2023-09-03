@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: MLOps: Gerenciamento de Dependências
+title: MLOps - Gerenciamento de Dependências
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-03
 labels:
