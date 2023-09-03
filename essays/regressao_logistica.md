@@ -13,24 +13,23 @@ labels:
 
 ## Regressão Logística
 
-<p>Apesar do nome, este é um modelo usado para problemas de classificação. Como explicado anteriormente, nesse tipo de problema nós tentamos
-prever uma resposta binária, como um sim ou não, certo ou errado e etc.</p>
+<p>Apesar do nome, este é um modelo usado para resolver problemas de classificação. Como mencionado anteriormente, em problemas de classificação, nosso objetivo é prever uma resposta binária, como sim ou não, certo ou errado, e assim por diante.</p>
 
-<p>E qual o motivo de usar um modelo de regressão logistica ao invés de um modelo de regressão linear?</p>
+<p>E por que usar um modelo de regressão logística em vez de um modelo de regressão linear?</p>
 
-<p>Variáveis binarias violam as regras da linearidade pois não temos uma resposta explicativa contínua e a regressão linear lida com valores que podem ser superiores a 1 e inferior a 0.</p>
+<p>As variáveis binárias não se encaixam nas suposições de linearidade, uma vez que não possuem respostas contínuas, ao contrário da regressão linear, que lida com valores que podem ser superiores a 1 e inferiores a 0.</p>
 
-<p>Aplicando uma regressão linear em um conjunto de dados binários, nosso modelo simplesmente não conseguiria prever novas entradas e, se essas entradas fossem baixas, teriamos valores caminhando para o negativo, o que não pode ocorrer.</p>
+<p>Ao aplicar uma regressão linear a um conjunto de dados binários, nosso modelo simplesmente não conseguiria prever novas entradas de forma eficaz e, se as entradas fossem baixas, teríamos valores que se aproximariam de números negativos, o que não faz sentido nesse contexto.</p>
 
 <img class="ui fluid image" src="../images/reg_lin_fake.png">
 
-<p>Devido a esse problema na utilização de modelos lineares, se faz necessário a utilização de modelos de regressão logística.</p>
+<p>Devido a esse desafio na utilização de modelos lineares, torna-se necessário o uso de modelos de regressão logística.</p>
 
-Nesse caso, será necessário efetuar algumas alterações no modelo linear:
- * Utilização do sigmoid no teste de hipótese, uma equação que irá manter todos os valores dentro do range (0,1), portanto valores com percentual abaixo de 0.5 tem um resposta 0 e valores com percentual igual ou acima de 0.5 tem uma resposta 1. 
- * Utilização de uma [função de custo](https://guilhermebrejeiro.github.io/essays/funcao_custo.html), diferente da função utilizada em modelos lineares, exatamente por termos entradas binárias, sendo necessário um modelo matemático logarítmico, conhecido como entropia cruzada.
+Nesse caso, algumas modificações são necessárias no modelo linear:
+ * A utilização da função sigmoid no teste de hipótese, uma equação que manterá todos os valores dentro do intervalo (0,1). Portanto, valores com percentagens inferiores a 0,5 são atribuídos a 0 e valores com percentagens iguais ou superiores a 0,5 são atribuídos a 1. 
+ * A aplicação de uma [função de custo](https://guilhermebrejeiro.github.io/essays/funcao_custo.html), diferente da usada em modelos lineares. Isso ocorre devido à natureza das entradas binárias, que requer um modelo matemático logarítmico, conhecido como entropia cruzada.
 
-<p>Feitas as alterações, o nosso modelo agora consegue prever uma resposta binária, sem ser prejudicado por valores extremamente altos ou baixos que possam vir a aparecer.</p>
+<p>Com essas modificações, nosso modelo de regressão logística consegue prever com precisão respostas binárias, sem ser afetado por valores extremamente altos ou baixos que possam surgir nos dados.</p>
 
 <img class="ui fluid image" src="../images/reg_lin_fake2.png">
 
