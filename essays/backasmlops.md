@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title:  De Cientista de Dados a Engenheiro de Machine Learning
 # All dates must be YYYY-MM-DD format!
-date: 2023-09-03
+date: 2023-09-02
 labels:
   - Machine Learning Engineer
   - MLOps
