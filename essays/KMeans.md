@@ -14,8 +14,6 @@ labels:
 
 ## Agrupamento não supervisionado
 
-<p>Esse é um algoritmo não supervisionado, portanto fornecemos a base de dados sem rótulos e o próprio algoritmo vai se organizando, levando em conta as similaridades dos dados e a quantidade de k especificados.</p>
-
-<p>Na imagem abaixo, o valor escolhido para o k foi igual a 3. De forma aleatória, são escolhidos três pontos e então os pontos mais próximos vão sendo assimilados por aquele k, ao mesmo tempo que a cada assimilação o centro do cluster vai se locomovendo. No fim, os itens do banco de dados são separados dentro de cada categoria e o centro do cluster se estabiliza, pronto para novos dados de entrada.</p>
-  
+<p>Este é um algoritmo não supervisionado, o que significa que fornecemos a base de dados sem rótulos e o algoritmo se organiza automaticamente, levando em consideração as similaridades entre os dados e a quantidade de k especificada.</p>
+<p>Na imagem abaixo, o valor escolhido para k é igual a 3. Inicialmente, três pontos são escolhidos aleatoriamente e, em seguida, os pontos mais próximos vão sendo assimilados por esses pontos iniciais (centros dos clusters), ao mesmo tempo em que o centro de cada cluster se move. No final, os itens do conjunto de dados são agrupados em categorias com base em sua proximidade com esses centros de cluster, e os centros se estabilizam, prontos para lidar com novos dados de entrada.</p>
 <img class="ui large image" src="../images/kmeans.png">
