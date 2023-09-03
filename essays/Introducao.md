@@ -38,6 +38,6 @@ labels:
 * K-Means
 * Support Vector Machines (SVM)
 
-<p>Fique à vontade para explorar esses algoritmos e descobrir como aplicá-los em diversas situações. A jornada de aprendizado em Machine Learning é fascinante e cheia de possibilidades!</p>p>
+<p>Fique à vontade para explorar esses algoritmos e descobrir como aplicá-los em diversas situações. A jornada de aprendizado em Machine Learning é fascinante e cheia de possibilidades!</p>
 
 
