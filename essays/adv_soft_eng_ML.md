@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Práticas Avançadas de Engenharia de Software para Machine Learning e MLOps
 # All dates must be YYYY-MM-DD format!
-date: 2023-09-03
+date: 2023-09-02
 labels:
   - Software Engineer
   - ML Engineer
