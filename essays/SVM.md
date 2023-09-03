@@ -14,17 +14,10 @@ labels:
 
 ## O que é?
 
-<p>São modelos de aprendizagem supervisionada que separa os dados por meio da identificação de padrões, utilizado principalmente para casos de classificação.</p> 
-  
+<p>O SVM (Support Vector Machine) é um modelo de aprendizado supervisionado que separa dados por meio da identificação de padrões, sendo amplamente utilizado para problemas de classificação.</p> 
 <img class="ui medium image" src="../images/SVM1.png">
-
-<p> Quando se tem uma boa divisão dos dados, fica muito mais simples separa-los e classifica-los, como mostra o exemplo acima. Mas e se tivessemos um problema que envolvesse a dosagem de um remédio? Não pode ser uma dosagem nem muito alta e nem muito baixa, precisamos da quantidade ideal</p>
-
+<p>Quando os dados podem ser bem separados, como mostrado no exemplo acima, é relativamente simples classificá-los. No entanto, em casos mais complexos, como aqueles que envolvem a dosagem de um medicamento, a situação fica mais desafiadora. A dosagem não pode ser nem muito alta nem muito baixa; é necessário encontrar a quantidade ideal.</p>
 <img class="ui medium image" src="../images/SVM2.png">
-
-<p>Nesse tipo de caso, a utilização do SVM com Kernel (que serve como uma equação para aumentar as dimensões dos dados) consegue solucionar o problema, elevando todos os termos ao quadrado, por exemplo, e teriamos uma maneira melhor de separar os dados:</p>
-
-
+<p>Nessas situações, a utilização do SVM com Kernel (que age como uma função para aumentar a dimensionalidade dos dados) pode solucionar o problema. Por exemplo, ele eleva todos os termos ao quadrado, o que resulta em uma melhor separação dos dados:</p>
 <img class="ui medium image" src="../images/SVM3.png">
-
-<p>Com a utilização do SVM conseguimos criar hiperplanos para separação dos dados, margens que não sofrem influência por outliers e com o truque de Kernel, ainda preservamos poder computacional.</p> 
+<p>O SVM nos permite criar hiperplanos para a separação dos dados, margens que são menos afetadas por outliers e, com o truque do Kernel, ainda preservamos o poder computacional.</p>
