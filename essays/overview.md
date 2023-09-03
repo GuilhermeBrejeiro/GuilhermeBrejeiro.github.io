@@ -14,8 +14,8 @@ labels:
 
 ## Processo de Classificação
 
-<p> O processo de classificação visa identificar a qual categoria uma nova entrada de dados pertence, com base em um conjunto de dados históricos.</p> 
-<p>Um exemplo comum seria o classificador de spam. Baseado em antigos registros, com palavras chave frequentemente usadas em e-mails de spam, ele identifica e separa categoricamente entre: spam, não spam.</p>
+<p> O processo de classificação tem como objetivo identificar a categoria à qual uma nova entrada de dados pertence, com base em um conjunto de dados históricos.</p> 
+<p>Um exemplo comum é o classificador de spam, que, com base em registros anteriores contendo palavras-chave frequentemente usadas em e-mails de spam, categoriza novos e-mails como spam ou não spam.</p>
 
 <img class="ui fluid rounded image" src="../images/email_spam.jpg">
 
@@ -23,56 +23,55 @@ labels:
 
 ## Processo de Regressão
 
-<p> Diferente do processo anterior que da uma resposta categórica se é ou não é, nesse processo o objetivo é prever o comportamento futuro baseado nos critérios conhecidos. Um bom exemplo seria a venda de guarda chuvas, através da quantidade de chuva é possível prever a demanda que vai acontecer, com isso organizar o nível de estoque e pedidos, não tentamos responder de forma categórica se vai ou não ser vendido guarda chuvas mas sim a quantidade.</p>
+<p> Ao contrário da classificação, no processo de regressão, o objetivo é prever comportamentos futuros com base em critérios conhecidos. Um exemplo seria prever a demanda por guarda-chuvas com base na quantidade de chuva, permitindo uma melhor organização do estoque e pedidos.</p>
 <br>
 <img class="ui fluid rounded image" src="../images/guardachuva_nivel.png">
 <br>
-<p>O exemplo anterior possui apenas uma variável, sendo considerado um modelo de Regressão Linear Simples, existem modelos mais complexos como de Regressão Linear Multipla e Regressão Logistica. Futuramente vou dedicar um post para explica-las.</p>
+<p>No exemplo acima, abordamos um modelo de Regressão Linear Simples, mas existem modelos mais complexos, como Regressão Linear Múltipla e Regressão Logística, que exploraremos em futuras postagens.</p>
   
-## Correlação
+## Correlação entre Variáveis
 
-<p>Saber se duas variáveis são correlacionadas, isto é, ao alterar uma das variáveis a outra sofre influência, basta plotar um gráfico e de formar bastante intuitiva é possível identificar.</p>
+<p>Para determinar se duas variáveis estão correlacionadas, basta plotar um gráfico e, de forma intuitiva, é possível identificar padrões.</p>
 
-Na imagem a seguir, da direita para a esquerda, são exemplos de: 
-  * forte correlação positiva
-  * forte correlação negativa
-  * correlação positiva moderada
-  * correlação negativa moderada 
-  * nenhuma correlação
+Na imagem a seguir, da direita para a esquerda, apresentamos exemplos de: 
+  * Forte correlação positiva
+  * Forte correlação negativa
+  * Correlação positiva moderada
+  * Correlação negativa moderada 
+  * Ausência de correlação
   
  
 <img class="ui fluid rounded image" src="../images/correlacoes.png">
   
   
   
-## Correlação não implica em causalidade
+## Correlação não Implica Causalidade
 
-<p> Uma frase clássica da estátistica é que "Correlação não implica é causalidade", isso significa que não basta apenas elaborar um gráfico com duas ou mais variáveis e sair prevendo dados. Aqui, a importância do conhecimento do negócio se mostra primordial.</p>
-<p>Um exemplo disso é uma públicação cientifica, feita por um médico chamado Franz Messerli, no qual ele relaciona o consumo de chocolate com a quantidade de prêmios Nobel recebidos por país. </p>
-<p>Olhando o gráfico realmente é impressionante, vamos encher todo mundo de chocolates e levar a humanidade para um novo patamar!</p>
+<p> Uma máxima na estatística é que "Correlação não implica causalidade", o que significa que não podemos tirar conclusões definitivas com base apenas em correlações. É aqui que o conhecimento de domínio desempenha um papel crucial.</p>
+<p>Um exemplo clássico é a relação entre o consumo de chocolate e o número de prêmios Nobel por país.</p>
 
-<p>O que não foi analisado e passou batido foram outras variáveis. O fato de que quanto maior a renda, maior o nível de estudo e maior o poder aquisitivo para compra de chocolate; ou o tamanho do país, EUA possui uma produção cientifica altíssima mas tambem possui uma população muito superior a Noruega, por exemplo. Ai está um exemplo de como é importante conhecer o negócio.</p>
+<p>O que não foi considerado e passou despercebido foram outras variáveis importantes. Por exemplo, o fato de que existe uma correlação entre a quantidade de chocolate consumida e o número de prêmios Nobel pode ser influenciado por outros fatores, como o nível de renda, o grau de educação e o poder aquisitivo das pessoas para comprar chocolate. Além disso, o tamanho do país desempenha um papel significativo, uma vez que os EUA têm uma produção científica muito alta, mas também uma população muito maior em comparação com a Noruega. Isso exemplifica a importância de compreender o contexto e as nuances do cenário em que os dados são analisados.</p>
 <br>
 <img class="ui fluid rounded image" src="../images/grafico_choco.jpg">
 <br>
 
-<p> Outro exemplo, bastante gritante e muito utilizado, é a relação existente entre a quantidade de filmes do Nicolas Cage e a quantidade de mortes por afogamento em piscina</p>
+<p> Outro exemplo bizarro é a aparente relação entre o número de filmes de Nicolas Cage e as mortes por afogamento em piscinas.</p>
 <br>
 <img class="ui fluid rounded image" src="../images/nicolascage.jpeg">
 <br>
 
 ## Processo de Clusterização
 
-<p> Falando um pouco de aprendizagem não supervisionada, vem os processos de clusterização. Basicamente, nesse processo, o algoritmo procura caraterísticas semelhantes, dividindo em pequenos grupos, esse número de grupos varia e é um parâmetro que nós precisamos especificar manualmente.</p>
+<p> Na aprendizagem não supervisionada, temos o processo de clusterização. Nesse caso, os algoritmos procuram características semelhantes e agrupam os dados em pequenos grupos, sendo o número de grupos um parâmetro que precisa ser especificado manualmente.</p>
 
-<p>Como exemplo, vamos imaginar a organização dos produtos em um supermercado. Pode ser feito pelo preço, pela marca, pelo local de uso, pela data de validade, pela cor, etc. </p>
+<p>Para ilustrar, considere a organização de produtos em um supermercado, que pode ser feita com base em diferentes critérios, como preço, marca, uso, data de validade, cor, etc.</p>
 
-No caso da clusterização, alguns exemplos dessa organização pode ser:
+Alguns métodos comuns de clusterização incluem:
 
-* Baseada no centróide
-* Baseada na conectividade
-* Baseada na densidade
-* Baseada em métodos probabilísticos
+* Baseado no centróide
+* Baseado na conectividade
+* Baseado na densidade
+* Baseado em métodos probabilísticos
 
 	
 <img class="ui fluid rounded image" src="../images/clustering_example.png">
