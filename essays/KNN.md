@@ -14,16 +14,11 @@ labels:
 
 ## K vizinhos mais próximos
 
-<p>Esse algoritmo gera rapidamente o caminho mais curto entre dois pontos, não que seja sempre o ideal. Utilizando a base de dados para treino e a quantidade de vizinhanças que o modelo deve criar, ele separa os dados em regiões e, quando alimentamos com um novo dado de entrada, esse dado vai fazer parte da região a qual ele estiver mais próximo</p>
-
-<p>Aqui podemos ver de forma ilustrada como o algoritmo separou os dados, pelas suas características, em quadrados vermelhos e bolinhas azuis. Ao colocar esse modelo para prever a categoria do triângulo, pela quantidade de k vizinhos que especificarmos, o algoritmo vai medir a distância de k elementos e decidir em qual categoria o novo elemento se encaixa, nesse caso ele será uma bolinha azul</p>
-
+<p>Este algoritmo é usado para encontrar rapidamente o caminho mais curto entre dois pontos, embora nem sempre seja o caminho ideal. Ele utiliza a base de dados de treinamento e a quantidade de vizinhos que o modelo deve considerar para dividir os dados em regiões. Quando fornecemos um novo dado de entrada, ele será atribuído à região mais próxima com base em suas características.</p>
+<p>Aqui, podemos ver uma ilustração de como o algoritmo divide os dados em regiões, representadas por quadrados vermelhos e bolinhas azuis. Ao usar esse modelo para prever a categoria do triângulo, com base na quantidade de k vizinhos especificada, o algoritmo mede a distância para k elementos mais próximos e decide em qual categoria o novo elemento se encaixa. Neste caso, ele será atribuído à categoria das bolinhas azuis.</p>
 <img class="ui medium fluid image" src="../images/knn_exemplo.png">
-
-
-<p>Já nesse segundo caso, qual seria a categoria do triângulo? </p>
-<p>Bem, tudo vai depender da quantidade k que especificarmos, se for 1, será uma bolinha azul pois é o elemento mais próximo, se for 4 será um quadrado vermelho pois nas vizinhanças mais próximas do triângulo, três são quadrados vermelhos.
-  
+<p>Agora, no segundo caso, qual categoria o triângulo pertence?</p>
+<p>Bem, isso dependerá da quantidade k que especificarmos. Se escolhermos 1, ele será classificado como uma bolinha azul porque é o elemento mais próximo. Se escolhermos 4, ele será classificado como um quadrado vermelho, pois entre os quatro elementos mais próximos do triângulo, três são quadrados vermelhos.</p>
 <img class="ui medium fluid image" src="../images/knn_exemplo2.png">
 
-<p>OBS: A definição do número de k é arbitrária, valores baixos podem ser mais suscetíveis aos outliers e valores muito altos criarão tantas categorias que derrubará a precisão do modelo.
+<p>OBS: A definição do valor de k é arbitrária. Valores baixos podem tornar o modelo mais suscetível a outliers, enquanto valores muito altos podem criar tantas categorias que reduzirão a precisão do modelo. Portanto, a escolha de k deve ser feita com cuidado, considerando a natureza dos dados e o objetivo da análise.
