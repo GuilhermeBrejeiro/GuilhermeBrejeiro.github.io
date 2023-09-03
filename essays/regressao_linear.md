@@ -14,21 +14,21 @@ labels:
 
 ## Regressão Linear Simples
 
-<p>Quando precisamos estudar duas variáveis, esse é o tipo de regressão que pode ser utilizada. Nesse modelo, uma variável independente e uma variável dependente podem ser plotadas para identificarmos suas relações e gerarmos uma linha que possa vir a explicar dados futuros, como por exemplo o preço de uma casa e o tamanho, conforme a figura.</p>
+<p>Quando precisamos analisar a relação entre duas variáveis, a regressão linear simples é o tipo de modelo apropriado. Neste modelo, uma variável independente e uma variável dependente são plotadas para identificar sua relação e gerar uma linha que pode ser usada para prever dados futuros, como o preço de uma casa em relação ao seu tamanho, conforme ilustrado na figura abaixo:</p>
 
 <img class="ui medium fluid image" src="../images/Lin_reg_simples.png">
 
-<p>Desse plot nós tiramos a equação da reta e o seu devido erro, que é a distância entre onde de fato está o ponto e a reta desenhada:</p>
+<p>A partir desse gráfico, podemos derivar a equação da linha e a correspondente medida de erro, que representa a distância entre os pontos reais e a linha ajustada:</p>
 <img class="ui small fluid image" src="../images/eq_reta.png">
 
 ## Regressão Linear Múltipla
 
-<p>Bastante parecida com a anterior, nessa regressão nós tentamos aumentar a precisão do modelo adicionando outras variáveis que influenciam no valor de saída. Como no exemplo anterior, dificilmente podemos afirmar que o tamanho da casa é o único fator que influência no valor, para melhorarmos a precisão utilizamos a quantidade de cômodos, região, área externa, etc.</p>
+<p>A regressão linear múltipla é bastante semelhante à regressão linear simples, mas busca aumentar a precisão do modelo ao incorporar várias variáveis que afetam a variável de saída. No exemplo anterior, é improvável que o tamanho da casa seja o único fator a influenciar o preço. Para melhorar a precisão, podemos incluir variáveis como o número de cômodos, a localização, a área externa, entre outras.</p>
 
-<p>Parecida com a fórmula anterior, agora temos outras variáveis influenciando no valor de saída</p>
+<p>A fórmula é semelhante à da regressão linear simples, mas agora incorpora várias variáveis que afetam a variável de saída:</p>
 <img class="ui medium fluid image" src="../images/eq_reta_mult.png">
 
-<p>OBS: Como podemos ver, é possível utilizar n variáveis para prever o nosso modelo, porém não é aconselhável utilizar variáveis colineares, pois isso prejudica o modelo final.</p>
+<p>OBS: É importante observar que é possível usar várias variáveis para prever o modelo, mas não é aconselhável incluir variáveis colineares, pois isso pode prejudicar a qualidade do modelo final.</p>
 	
 
 	
