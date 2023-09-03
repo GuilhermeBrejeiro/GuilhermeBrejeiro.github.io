@@ -13,49 +13,27 @@ labels:
 
 ## O que é NumPy?
 
-<p>Quando os modelos matemáticos começaram a demandar um poder computacional muito grande, viu-se a necessidade de uma biblioteca que permitisse trabalhar com arranjos, vetores e matrizes de N dimensões, assim nasceu o NumPy, a principal biblioteca científica do Python e que se equipada com o software proprietário Matlab. NumPy foi implementado em C, por isso sua grande velocidade na realizações das operaçÕes matemáticas.</p>
-
-<p>Para a utilização dessa biblioteca, há a necessidade de instalação. No windows, já com o Python instalado, abra o prompt de comando em modo administrador e digite: </p>
-
+<p>Quando os modelos matemáticos começaram a exigir um poder computacional significativo, surgiu a necessidade de uma biblioteca que permitisse trabalhar com arranjos, vetores e matrizes de N dimensões. Assim nasceu o NumPy, a principal biblioteca científica do Python, equiparável ao software proprietário Matlab. O NumPy foi implementado em C, o que proporciona alta velocidade nas operações matemáticas.</p>
+<p>Para usar essa biblioteca, é necessário instalá-la. No Windows, após a instalação do Python, você pode abrir o prompt de comando como administrador e digitar o seguinte comando:</p>
 <img class="ui fluid medium image" src="../images/numpy4.png">
-
-<p>Terminado a instalação, basta fechar o prompt de comando e já é possível utilizar o NumPy junto ao Python com o comando: import numpy</p>
-
-<p>Como todas as bibliotecas é possível utilizar um apelido para a mesma, uma boa prática ao utilizar numpy é apelida-lo de np:</p>
-	
+<p>Após a conclusão da instalação, basta fechar o prompt de comando e você poderá usar o NumPy no Python com o seguinte comando: `import numpy`</p>
+<p>Como acontece com todas as bibliotecas, é possível atribuir um apelido a ela. Uma boa prática ao usar o NumPy é apelidá-lo como `np`:</p>
 <img class="ui fluid medium image" src="../images/importnumpy.png">
-
-<p>Com o NumPy importado, podemos criar arrays, abaixo o exemplo de 1D e 2D:</p>
-
-<p>Nesse exemplo, foi criado uma lista de elementos e em seguida ela foi transformada em um arranjo, com isso ganhamos muitas vantagens para trabalhar com esses números</p>
-
+<p>Com o NumPy importado, podemos criar arrays, como mostrado nos exemplos de arrays 1D e 2D:</p>
+<p>No exemplo, uma lista de elementos é criada e depois transformada em um array. Isso oferece várias vantagens para trabalhar com esses números:</p>
 <img class="ui fluid image" src="../images/numpy1.png">
-	
-<p>Com esse arranjo, trabalhar com elementos matemáticos em cada item se torna muito rápido. No exemplo, é possível ver uma lista multiplicada por um dado número e um arranjo multiplicado por esse número, no segundo caso cada valor é multiplicado individualmente:</p>
-
+<p>Com um array, o cálculo de operações matemáticas em cada item é muito mais rápido. No exemplo, você pode ver uma lista multiplicada por um número e um array multiplicado pelo mesmo número. No segundo caso, cada valor é multiplicado individualmente:</p>
 <img class="ui fluid image" src="../images/numpy2.png">
-	
 <img class="ui fluid image" src="../images/numpy3.png">
-
-<p>Visualizamos uma sequência númerica em uma dimensão (1D), podemos ter 2D, 3D e nD, visualmente fica cada vez mais dificil exemplificar, mas NumPy se torna uma ferramenta incrível e extremamente rápida para lidar com uma grande quantidade de números, exatamente por essas execuções simultâneas em grandes dimensões.</p>
-
+<p>Podemos visualizar sequências numéricas em uma dimensão (1D) e também trabalhar com 2D, 3D e nD. Visualmente, fica mais difícil de representar, mas o NumPy se torna uma ferramenta incrível e extremamente rápida para lidar com uma grande quantidade de números, devido a essas execuções simultâneas em várias dimensões:</p>
 <img class="ui fluid image" src="../images/numpy5.png">
-
 <p>Com quatro dimensões, podemos imaginar um array contendo diversos arrays de três dimensões.</p>
-
-<p>No exemplo abaixo vemos a multiplicação de matrizes sendo feita sem a função especifica do NumPy, ele expande os arranjos e executa as operações matemáticas.</p>
-
+<p>No exemplo abaixo, a multiplicação de matrizes é realizada sem a função específica do NumPy. O NumPy expande os arrays e executa as operações matemáticas:</p>
 <img class="ui fluid image" src="../images/numpy6.png">
-
-<p>Utilizando a função "dot" conseguimos efetuar a multiplicação dos arranjos da maneira correta, conforme a algebra linear</p>
-
+<p>Utilizando a função "dot," conseguimos efetuar a multiplicação dos arrays da maneira correta, conforme a álgebra linear:</p>
 <img class="ui fluid image" src="../images/numpy7.png">
-
-
-<p>Abaixo algumas outras funções do NumPy que permite gerar matrizes com todos os elementos 0, 1 ou com valores aleatórios, muito úteis em algumas aplicações.</p>
-
+<p>Abaixo, estão algumas outras funções do NumPy que permitem gerar matrizes com todos os elementos 0, 1 ou com valores aleatórios. Essas funções são muito úteis em algumas aplicações:</p>
 <img class="ui fluid image" src="../images/numpy8.png">
-	
 
 
 
