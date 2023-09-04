@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title:  MLOps - Documentação
 # All dates must be YYYY-MM-DD format!
-date: 2023-09-08
+date: 2023-09-15
 labels:
   - Machine Learning Engineer
   - MLOps
