@@ -43,6 +43,9 @@ Existem diversas ferramentas e plataformas que facilitam a implantação de mode
 * **Kubernetes:** Uma ferramenta de orquestração de contêineres amplamente usada e que oferece escalabilidade e flexibilidade.
 * **TensorFlow Serving:** Uma estrutura de código aberto para servir modelos TensorFlow em produção
 * **MLflow:** Uma plataforma de código aberto que gerencia todo o ciclo de vida de modelos de Machine Learning, incluindo a implantação
+* **Apache Airflow:** Como um usuário diario do Apache Airflow, posso afirmar que esta é uma ferramenta de orquestração de fluxo de trabalho extremamente poderosa. É a minha escolha atual para a implantação de modelos de Machine Learning devido à sua versatilidade e riqueza de recursos. O Apache Airflow permite que você crie fluxos de trabalho altamente personalizados e automatizados para todas as etapas do ciclo de vida do modelo de ML.  
+  Com o Apache Airflow, você pode definitr tarefas especificas para treinamento, validação, implantação e monitoramento de modelos. Além disso, sua capacidade avançada de agendamento permite automatizar esses processos de acordo com suas necessidades e requisitos de negócios. Também é possível configurar notificações e alertas para garantir que você seja informado imediatamente sobre qualquer problema ou anomalia no desempenho do modelo.  
+  Uma das vantagens notáveis do Airflow é a sua integração com uma variedade de fontes de dados e serviços em numve, como a AWS, GPC e MS Azure. Isso facilita a incorporação de fluxos de trabalho de Machine Learning em ambientes de nuvem, tornando a implantação ainda mais flexível e escalável.
 
 ## Escolha da ferramenta para implantação certa
 
