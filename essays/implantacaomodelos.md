@@ -63,3 +63,12 @@ A escolha da ferramenta não afetá apenas o desempenho e a eficiência mas tamb
 
 A implantação de modelos de Machine Learning é uma etapa fundamental e que de fato torna o modelo util ao negócio, impactando no mundo real. Seguir boas práticas e utilizar ferramentas adequadas, pode garantir que seu modelo não seja apenas um bom modelo no ambiente de experimentação, mas também um modelo que pode mudar os rumos da sua empresa, como aumentar a eficiência operacional, diminuir os custos, melhorar a expêriencia do cliente e muitos mais.
 
+Links úteis:  
+https://aws.amazon.com/pt/sagemaker/  
+https://kubernetes.io/pt-br/  
+https://www.tensorflow.org/tfx/guide/serving?hl=pt-br  
+https://mlflow.org/  
+https://airflow.apache.org/  
+https://towardsdatascience.com/unlocking-mlops-using-airflow-a-comprehensive-guide-to-ml-system-orchestration-880aa9be8cff  
+https://www.analyticsvidhya.com/blog/2023/02/monitoring-and-alerting-system-using-airflow/  
+https://machinelearninggeek.com/airflow-operators/
