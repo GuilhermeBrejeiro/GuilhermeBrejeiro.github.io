@@ -9,7 +9,6 @@ labels:
   - MLOps
   - Aprender ensinando
 ---
-
 O trabalho de aprimorar os modelos envolve experimentar várias arquiteturas, ajustar hiperparâmetros e testar diferentes abordagens. Imagine isso como uma busca pela "fórmula mágica" que fará o seu modelo ter a performace perfeita.
 
 ## Experimentação constante
