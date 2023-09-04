@@ -22,7 +22,7 @@ Em qualquer projeto de Machine Learning, os dados são o alicerce. O controle de
 4.   **Auditoria e Conformidade:** Em setores regulamentados, como saúde e finanças, a auditoria de dados é obrigatória. O controle de versão dos dados fornece uma trilha de auditoria completa, garantindo a conformidade.
 5.   **Evitar "Overfitting" de Dados:** Modelos de Machine Learning podem ser ajustados em excesso (sofrerem "overfitting") se os dados de treinamento forem alterados sem documentação adequada. O controle de versão dos dados ajuda a evitar esse tipo de problema.
 
-Durante o processo de desenvolvimento do modelo, muitas vezes é necessário experimentar com várias arquiteturas e modelos diferentes para escolher o melhor para o seu problema. Alguns modelos podem parecer semelhantes entre si e diferir apenas em um hiperparâmetro, como um modelo que utiliza uma taxa de aprendizado de 0.001 e outro que utiliza uma taxa de aprendizado de 0.002, e ainda assim, seus desemprenhos são dramaticamente diferentes. É importante acompanhar todas as definições necessárias para recriar um experimento e seus artefatos relevantes. Um artefato é um arquivo gerado durante um experimento; exemplos de artefatos podem ser arquivos que mostram a curva de perda, gráfico de perda de avaliação, logs ou resultados intermediários de um modelo durante um processo de treinamento. Isso permite comparar diferentes experimentos e escolher o mais adequado às suas necessidades. Comparar diferentes experimentos também pode ajudar a entender como pequenas mudanças afetam o desempenho do modelo.
+
 
 ## Ferramentas de Controle de Versão dos Dados
 
