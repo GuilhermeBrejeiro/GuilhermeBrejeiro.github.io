@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title:  MLOps - Gerenciamento de Experimentos
+title:  MLOps - Monitoramento de Modelos
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-08
 labels:
