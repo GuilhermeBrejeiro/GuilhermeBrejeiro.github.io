@@ -50,3 +50,7 @@ class Teacher:
 ```
 Esses artefatos desempenham um papel fundamental no ciclo de vida de um projeto de Machine Learning, permitindo que os desenvolvedores e cientistas de dados trabalhem de forma eficaz e mantenham um controle preciso do processo de desenvolvimento do modelo.
 
+
+## Conclusão
+
+Em um projeto de Machine Learning, componentes e artefatos desempenham um papel fundamental para uma gestão eficaz do modelo. Organiza-los, rastreá-los e gerenciá-los é um investmento valioso que leva a modelos mais robustos e uma implementação mais suave em ambientes de produçào.
