@@ -44,10 +44,18 @@ Estrátegias como o carregamento gradual de novas versões, o monitoramento de d
 
 Existem várias arquiteturas para servir modelos de Machine Learning, cada uma adequada a diferentes cenários:
 
-* **Offline:** Modelos são atualizados periodicamente, e as previsões são geradas em lotes. É adequado para aplicativos com requisitos de latência flexíveis.
-* **Online:** Modelos respondem em tempo real às solicitações, sendo ideais para aplicativos que exigem baixa latência.
-* **Model as a Service:** Modelos são armazenados em um cluster dedicado e os resultados são fornecidos por meio de APIs, permitindo sua integração em aplicativos de terceiros de maneira simples
-* **Serving at the Edge:** Modelos são implantados diretamente em dispositivos de borda, como câmeras e sensores, para aplicaçãos de IoT e automação.
+1. **Offline:** Modelos são atualizados periodicamente, e as previsões são geradas em lotes.
+   * Vantagens: Adequado para aplicativos com requisitos de latência flexíveis. Por permitir o treinamento do modelo em lote, o uso dos recursos de hardware podem ser feitos de forma mais eficiente.
+   * Desvantagens: Não adequado para casos de uso que exigem respostas em tempo real. Pode haver atrasos significativos na entrega de previsões.
+2. **Online:** Modelos respondem em tempo real às solicitações.
+   * Vantagens: Oferece baixa latência, adequado para casos de recomendações instantâneas e detecção de fraudes.
+   * Desvantagens: Pode ser mais oneroso em termos de recursos de hardware e requer escalabilidade eficiente para lidar com picos de tráfego.
+3. **Model as a Service:** Modelos são armazenados em um cluster dedicado e os resultados são fornecidos por meio de APIs.
+   * Vantagens: Facilita o uso de modelos de Machine Learning como serviços, simplificando a integração em aplicativos. Permite o compartilhamento de modelos entre equipes.
+   * Desvantagens: Pode aumentar a complexidade da infraestrutura e exigir considerações de segurança adicionais.
+4. **Serving at the Edge:** Modelos são implantados diretamente em dispositivos de borda, como câmeras e sensores, para aplicaçãos de IoT e automação.
+   * Vantagens: Reduz a latência ao executar modelo diretamente no dispositivo. Útil para aplicativos offline ou com conectividade intermitente.
+   * Desvantagens: Limitações de recursos em dispositivos de borda podem restringir o tamanho e a complexidade dos modelos.
 
 
 ## Conclusão
