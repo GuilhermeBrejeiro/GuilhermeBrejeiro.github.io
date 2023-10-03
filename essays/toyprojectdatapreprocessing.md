@@ -13,13 +13,14 @@ labels:
 ## Pré-processamento de Dados
 
 O pré-processamento de dados é uma etapa fundamental na construção de modelos de aprendizado de máquina. Esta fase envolve a preparação dos dados brutos para que possam ser alimentados em algoritmos de Machine Learning. Aqui, vamos modularizar o fluxo de trabalho de pré-processamento de dados feito no Jupyter Notebook com as análises de aprovações de cartões de crédito.
-Novamente, iniciamos o processo com as configurações já pré-definidas, que ficam que um arquivo à parte e devem ser importadas:
+
+Novamente, iniciamos o processo com as configurações já pré-definidas, que estão em um arquivo separado e devem ser importadas:
 
 ```python
 from configs.project_config import DataPreprocessingConfig
 ```
 
-Classe DataPreprocessingConfig do arquivo de configurações project_config.py:
+A classe 'DataPreprocessingConfig' do arquivo de configurações 'project_config.py' contém as configurações necessárias para o pré-processamento dos dados:
 
 ```python
 class DataPreprocessingConfig:
@@ -42,7 +43,7 @@ class DataPreprocessingConfig:
 
 ```
 
-O arquivo preprocessing.py terá a class DataPreprocessing com as devidas funções responsaveis pelo pré-processamento:
+O arquivo 'preprocessing.py' contém a classe 'DataPreprocessing' com as funções responsaveis pelo pré-processamento:
 
 ```python
 class DataPreprocessing:
@@ -78,7 +79,7 @@ class DataPreprocessing:
 
 ## Divisão dos Dados e Exclusão de Colunas Desnecessárias
 
-Após análise, no Jupyter Notebook foi concluído que duas das colunas do dataset não seriam necessárias e, portanto, devem ser eliminadas. Feito isso, a base de dados foi dividida entre treino e teste.
+Após análise, no Jupyter Notebook, foi concluído que duas das colunas do dataset não seriam necessárias e, portanto, devem ser eliminadas. Feito isso, a base de dados foi dividida entre treino e teste.
 
 ```python
 # Import train_test_split
@@ -91,7 +92,7 @@ cc_apps = cc_apps.drop([11, 13], axis=1)
 cc_apps_train, cc_apps_test = train_test_split(cc_apps, test_size=0.33, random_state=42)
 ```
 
-Para a modularização e processo desenvolvidos, isso ficou um pouco diferente. Na própria ingestão já é separado os conjuntos de treino, teste e validação, que são salvos em caminhos especificos, portanto diretamente neles serão feito o processo de exclusão das features e separar os dados de features (X) e target (y):
+Para a modularização e o processo desenvolvido, isso ficou um pouco diferente. Na própria ingestão, os conjuntos de treino, teste e validação já são separados e salvos em caminhos específicos. Portanto, diretamente nesses conjuntos, o processo de exclusão das features e separação dos dados em features (X) e target (y) são realizados:
 
 1. Divisão dos Dados em Features e Target
 
@@ -125,6 +126,7 @@ Para a modularização e processo desenvolvidos, isso ficou um pouco diferente. 
 ```
    
 2. Processo de exclusão das colunas
+
 ```python
     def drop_unnecessary_columns(self) -> None:
         """
@@ -147,7 +149,9 @@ Para a modularização e processo desenvolvidos, isso ficou um pouco diferente. 
 
 ## Lidando com Valores Ausentes
 
-Como dito anteriormente, aqui tratamos de produtizar o modelo desenvolvido e, portanto, já é entendido que as análises de como os valores ausentes serão tratados já foram feitas. Existem motivos para se usar a média, a mediana ou a moda na substituição de valores, existem motivos para se manter váriaveis mesmo que elas tenham valores ausentes, existem motivos para cada um dos tratamentos e a análise estátistica e exploratória dos dados já ditaram isso. No modelo em questão, foi decidido que os valores preenchidos com "?" serão substituido por NaN, nas colunas de valores númericos os valores ausentes serão substituidos pela média e nas colunas categóricas serão substituidos pela moda.
+Como mencionado anteriormente, aqui tratamos de produtizar o modelo desenvolvido e, portanto, as análises de como os valores ausentes serão tratados já foram realizadas. Existem motivos para se usar a média, a mediana ou a moda na substituição de valores ausentes, bem como motivos para se manter váriaveis mesmo que elas tenham valores ausentes. Tudo isso foi determinado pela análise estatística e exploratória dos dados.
+
+No modelo em questão, foi decidido que os valores preenchidos com "?" serão substituido por NaN. Nas colunas de valores númericos, os valores ausentes serão substituidos pela média, e nas colunas categóricas, serão substituidos pela moda.
 
 ```python
 # Substituindo '?' por NaN
@@ -167,7 +171,7 @@ for col in X_train.columns:
 
 ```
 
-Novamente, no processo de modularização, alguns detalhes serão modificados. Lembrando que, sempre que possível, cada função modularizada deve ter apenas uma função.
+No processo de modularização, alguns detalhes foram modificados. Lembrando que, sempre que possível, cada função modularizada deve ter apenas uma função.
 
 1. Substituindo "?" por NaN
 
@@ -221,7 +225,7 @@ Novamente, no processo de modularização, alguns detalhes serão modificados. L
 
 4. Calculando os valores conforme o tipo de coluna e salvando esses calculos
 
-O calculo dos valores que serão imputados deve ser feito com base apenas no dataset de treino. Não executar essa separação previamente, pode ocasionar o problema conhecido como "data leakage", no qual o modelo acaba por ter acesso a informações da base de teste e validação e com isso performar melhor nelas. Isso é um problema pois, nos dados do mundo real, ele não terá nenhum tipo de informação, tornando as bases de teste e validação diferentes do que se espera do mundo real podendo gerar um modelo com uma péssima performace em produção.
+O calculo dos valores que serão imputados deve ser feito com base apenas no conjunto de treinamento. Não executar essa separação previamente pode ocasionar o problema conhecido como "data leakage", no qual o modelo acaba por ter acesso a informações da base de teste e validação, o que pode fazer com que ele se comporte melhor nessas bases, mas não em situações do mundo real.
 
 ```python
     def calculate_imputation_values(self) -> None:
@@ -265,8 +269,8 @@ O calculo dos valores que serão imputados deve ser feito com base apenas no dat
 
 5. Imputando os valores de média e moda
 
-Agora com a média e a moda da base de dados de treinamento, esses valores devem ser imputados em todos os conjuntos.
-Feito isso, essa nova base de dados sem nenhum valor nulo será salva para ser usada na próxima etapa do processo.
+Agora, com a média e a moda da base de dados de treinamento, esses valores devem ser imputados em todos os conjuntos.
+Em seguida, essa nova base de dados sem nenhum valor nulo será salva para ser usada na próxima etapa do processo.
 
 ```python
     def impute_values(self) -> None:
@@ -319,7 +323,7 @@ Feito isso, essa nova base de dados sem nenhum valor nulo será salva para ser u
 
 ```
 
-E para finalizaar, a função final da classe DataPreprocessing será responsável por coordenar a execução de todo o processo do pré-processamento:
+Para finalizaar, a função final da classe 'DataPreprocessing' será responsável por coordenar a execução de todo o processo do pré-processamento:
 
 ```python
     def initiate_data_preprocessing(self) -> None:
@@ -349,3 +353,13 @@ E para finalizaar, a função final da classe DataPreprocessing será responsáv
             raise ExceptionError(e)
 
 ```
+
+## Conclusão
+
+Aqui exploramos detalhes sobre como modularizar e executar o pré-processamento de dados em um projeto de análise de cartões de crédito. Os processos apresentados são exemplos simples, mas a essência das técnicas pode ser aplicadas em tarefas de pré-processamento mais abrangentes.
+
+Reforçamos a importância de manter um arquivo separado exclusivamente para configurações, onde podemos armazenar caminhos de arquivos, hiperparâmetros e outras informações relevantes. Além disso, destacamos a importância da organização em cada etapa da pipeline de pré-processamento, incluindo a consideração das bases intermediárias que podem ser geradas.
+
+Também discutimos brevemente o conceito muitas vzes negligenciado do vazamento de dados das bases de teste e validação para o modelo de treinamento. Esse é um aspecto crítico que deve ser cuidadosamente controlado para garantir resultados justos e realistas em projetos de aprendizado de máquina.
+
+O próximo passo será em relação a feature engineering, que falarei logo mais.
